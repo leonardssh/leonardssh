@@ -1,10 +1,15 @@
-### Hi there 👋
+![Doge's github stats](https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b)
+
+
+- 👨‍💻 I’m currently working on a [RoMemer](https://github.com/RoMemer) discord bot based on Romanian memes.
+- 📫 How to reach me: 
+  - Discord: Leonard#6666
+  - Email: contact@leonard.pw
+- 😄 Follow me on:
+  - Instagram: [@leonardssh22](https://www.instagram.com/leonardssh22/)
+  - Twitter: [@leonardssh_22](https://twitter.com/leonardssh_22)
 
 <!--
-**LeonardSSH/LeonardSSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
