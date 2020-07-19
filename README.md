@@ -1,5 +1,9 @@
 ![Doge's github stats](https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b)
 
+[![leaks][leaks-logo]][leaks-invite]
+
+[leaks-invite]: https://discord.gg/5Rpndsw
+[leaks-logo]: https://i.imgur.com/yluG9xR.png
 
 - 👨‍💻 I’m currently working on a [RoMemer](https://github.com/RoMemer) discord bot based on Romanian memes.
 - 📫 How to reach me: 
