@@ -21,7 +21,6 @@
         <img src="https://img.shields.io/badge/contact@leonard.pw-contact-D44638?label=contact@leonard.pw&style=flat-square&logo=gmail">     
     </a> 
     <br>
-    <br>
 </p>
 <p align="center">
     👨‍💻 I’m currently working on a <a href="https://github.com/RoMemer">RoMemer</a> discord bot based on Romanian memes.
