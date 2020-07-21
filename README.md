@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/5Rpndsw"><img src="https://i.imgur.com/Fybwf4w.png"></a>
-    <br>
-    <br>
     <a href="https://pufler.dev/git-badges/"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
+    <br>
+    <br>
+    <a href="https://discord.gg/5Rpndsw"><img src="https://i.imgur.com/Fybwf4w.png"></a>
     <br>
     <br>
     <a href="https://www.instagram.com/leonardssh22/"><img src="https://i.imgur.com/Qvmdm9G.png"></a>  
