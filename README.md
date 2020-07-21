@@ -6,6 +6,10 @@
     <a href="https://discord.gg/5Rpndsw"><img src="https://i.imgur.com/Fybwf4w.png"></a>
 </p>
 
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/LeonardSSH/visits">
+</p>
+
 - 👨‍💻 I’m currently working on a [RoMemer](https://github.com/RoMemer) discord bot based on Romanian memes.
 - 📫 How to reach me: 
     - Discord: Leonard#6666
