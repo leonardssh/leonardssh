@@ -25,3 +25,7 @@
 <p align="center">
     👨‍💻 I’m currently working on a <a href="https://github.com/RoMemer" target="_blank">RoMemer</a> discord bot based on Romanian memes.
 </p>
+
+<p align="center">
+    <a href="https://discord.gg/5Rpndsw"><img src="https://i.imgur.com/Fybwf4w.png"></a>
+</p>
