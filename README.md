@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&hide_title=true" />
-</p>
-
-<p align="center">
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
     &emsp;
     <a href="https://twitter.com/leonardssh_22" target="_blank">
@@ -20,12 +16,25 @@
     <a href="mailto:contact@leonard.pw" target="_blank">
         <img src="https://img.shields.io/badge/contact@leonard.pw-contact-D44638?label=contact@leonard.pw&style=flat-square&logo=gmail">     
     </a> 
-    <br>
-</p>
-<p align="center">
-    👨‍💻 I’m currently working on a <a href="https://github.com/RoMemer" target="_blank">RoMemer</a> discord bot based on Romanian memes.
 </p>
 
-<p align="center">
-    <a href="https://discord.gg/5Rpndsw"><img src="https://i.imgur.com/Fybwf4w.png"></a>
-</p>
+```javascript
+const leo = {
+    pronouns: "He" | "Him",
+    code: ["PHP", "Javascript"],
+    askMeAbout: ["web dev", "tech", "cars", "guns"],
+    technologies: {
+        frontEnd: {
+            js: ["vue"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        databases: ["mongo", "mysql", "sqlite", "postgresql"],
+    },
+    currentProject: "I'm currently working on improving my coding skills.",
+    funFact: "There are two ways to write error-free programs; only the third one works."
+};
+```
