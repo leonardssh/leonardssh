@@ -1,3 +1,27 @@
+<!--```javascript
+const leo = {
+    pronouns: "He" | "Him",
+    code: ["PHP", "Javascript"],
+    askMeAbout: ["web dev", "tech", "cars", "guns"],
+    technologies: {
+        frontEnd: {
+            js: ["vue"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        databases: ["mongo", "mysql", "sqlite", "postgresql"],
+    },
+    currentProject: "I'm currently working on improving my coding skills.",
+    funFact: "There are two ways to write error-free programs; only the third one works."
+};
+```
+-->
+
+### Hi there 👋
+
 <p align="center">
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
     &emsp;
@@ -18,26 +42,13 @@
     </a> 
 </p>
 
-```javascript
-const leo = {
-    pronouns: "He" | "Him",
-    code: ["PHP", "Javascript"],
-    askMeAbout: ["web dev", "tech", "cars", "guns"],
-    technologies: {
-        frontEnd: {
-            js: ["vue"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            php: ["laravel"]
-        },
-        databases: ["mongo", "mysql", "sqlite", "postgresql"],
-    },
-    currentProject: "I'm currently working on improving my coding skills.",
-    funFact: "There are two ways to write error-free programs; only the third one works."
-};
-```
+#### I'm just a simple guy who likes to write code all day.
+
+- 🏢 I'm currently working on a personal project, a discord bot based on Romanian memes, [RoMemer](https://github.com/RoMemer). (Inspired by [DankMemer](https://github.com/DankMemer))
+- ⚙️ I use daily: `.js`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd`
+- 🌱 Learning all about **NodeJS** and **API**
+- 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
+- ⚡️ Fun fact: There are two ways to write error-free programs; only the third one works.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
