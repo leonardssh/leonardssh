@@ -48,7 +48,7 @@ const leo = {
 - ⚙️ I use daily: `.js`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd`
 - 🌱 Learning all about **NodeJS** and **API**
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
-- ⚡️ Fun fact: There are two ways to write error-free programs; only the third one works.
+- ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
