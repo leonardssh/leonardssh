@@ -1,25 +1,3 @@
-<!--```javascript
-const leo = {
-    pronouns: "He" | "Him",
-    code: ["PHP", "Javascript"],
-    askMeAbout: ["web dev", "tech", "cars", "guns"],
-    technologies: {
-        frontEnd: {
-            js: ["vue"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            php: ["laravel"]
-        },
-        databases: ["mongo", "mysql", "sqlite", "postgresql"],
-    },
-    currentProject: "I'm currently working on improving my coding skills.",
-    funFact: "There are two ways to write error-free programs; only the third one works."
-};
-```
--->
-
 ### Hi there 👋
 
 <p align="center">
@@ -48,7 +26,7 @@ const leo = {
 - ⚙️ I use daily: `.js`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd`
 - 🌱 Learning all about **NodeJS** and **API**
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
-- 😄 Pronouns: he/him
+- 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
 <!--START_SECTION:waka-->
