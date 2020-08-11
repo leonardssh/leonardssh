@@ -23,8 +23,8 @@
 #### I'm just a simple guy who likes to write code all day.
 
 - 🏢 I'm currently working on a personal project, a discord bot based on Romanian memes, [RoMemer](https://github.com/RoMemer). (Inspired by [DankMemer](https://github.com/DankMemer))
-- ⚙️ I use daily: `.js`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd`
-- 🌱 Learning all about **NodeJS** and **API**
+- ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd`
+- 🌱 Learning all about **Typescript**
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
