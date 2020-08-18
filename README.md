@@ -161,6 +161,5 @@ TSQL                     1 repos             ██░░░░░░░░░�
 > Provided by [`GitHub Readme Stats`] -->
 
 <p align="center">
-    &emsp;
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
 </p>
