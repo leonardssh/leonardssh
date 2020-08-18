@@ -1,16 +1,13 @@
 <p align="center">
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
     &emsp;
-    <a href="javascript:void(0)" target="_blank">
-        <img src="https://img.shields.io/badge/Leonard-6666-738ADB?label=Leonard&style=flat-square&logo=discord">     
-    </a> 
 </p>
 
 ### Hi there 👋
 
-My name is Leonard and I am an 18 year old Full Stack Web Developer from Romania.
+My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source discord bot. [@**valet**](https://github.com/TheValetBot).
+- 🏢 I'm currently working on a personal project, a multi purpose, open source discord bot. [@**valet**](https://github.com/TheValetBot)
 - 🌱 Learning all about [**Typescript**](https://www.typescriptlang.org/) & [**Angular**](https://angular.io/)
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
