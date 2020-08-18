@@ -41,13 +41,13 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
    - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="36" align="center"> [`Angular`]
 
 #### 🛠️ Tools
-   - <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git" width="26" align="center"> [`Git`]
-   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="26" align="center"> [`npm`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center"> [`Git`]
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center"> [`npm`]
    - <img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="26" align="center"> [`MySQL`]
-   - <img src="https://i.imgur.com/tay0UdE.png" alt="MongoDB" width="26" align="center"> [`MongoDB`]
-   - <img src="https://i.imgur.com/RsvQjc0.png" alt="PostgreSQL" width="26" align="center"> [`PostgreSQL`]
-   - <img src="https://i.imgur.com/OHsveKl.png" alt="VSCode" width="26" align="center"> [`VSCode`]
-   - <img src="https://i.imgur.com/IgESTvh.png" alt="Sublime Text 3" width="26" align="center"> [`Sublime Text 3`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center"> [`MongoDB`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center"> [`PostgreSQL`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center"> [`VSCode Insiders`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32" align="center"> [`Sublime Text 3`]
 
 <hr>
 
@@ -136,7 +136,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`MySQL`]:                 https://www.mysql.com/
 [`MongoDB`]:               https://www.mongodb.com/
 [`PostgreSQL`]:            https://www.postgresql.org/
-[`VSCode`]:                https://code.visualstudio.com/
+[`VSCode Insiders`]:       https://code.visualstudio.com/insiders/
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
 <!--END_SECTION:links-->
