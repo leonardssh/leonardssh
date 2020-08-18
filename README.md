@@ -15,7 +15,7 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center"> [`Leonard#6666`][Discord]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center"> [`contact@leonard.pw`][Gmail]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center"> [`leonardssh22`][Facebook]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center"> [`leonardssh22`][YouTube]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center"> [`LeonardSSH`][YouTube]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center"> [`leonardssh22`][Twitch]
    
 #### 🌟 Skills
