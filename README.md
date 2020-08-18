@@ -43,7 +43,7 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 #### 🛠️ Tools
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center"> [`Git`]
    - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center"> [`npm`]
-   - <img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="26" align="center"> [`MySQL`]
+   - <img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32" align="center"> [`MySQL`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center"> [`MongoDB`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center"> [`PostgreSQL`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center"> [`VSCode Insiders`]
