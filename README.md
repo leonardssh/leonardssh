@@ -26,16 +26,16 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 <!-- - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd` -->
 <!-- [<img src="" alt="" width="48">]() -->
 
-# 👨‍💻 Languages
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="48">](https://www.php.net/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="48">](https://nodejs.org/en/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="48">](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="48">](https://sass-lang.com/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="48">](https://vuejs.org/)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="48">](https://angular.io/)
+#### 👨‍💻 Languages
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="32" align="center"> [`HTML5`](https://developer.mozilla.org/en-US/docs/Web/HTML)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="32" align="center"> [`CSS3`](https://developer.mozilla.org/en-US/docs/Web/CSS)
+   - <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="26" align="center"> [`PHP`](https://www.php.net/)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="26" align="center"> [`Node.js`](https://nodejs.org/en/)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="26" align="center"> [`Javascript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="26" align="center"> [`Typescript`](https://www.typescriptlang.org/)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="32" align="center"> [`Sass`](https://sass-lang.com/)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="26" align="center"> [`Vue.js`](https://vuejs.org/)
+   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="32" align="center"> [`Angular`](https://angular.io/)
 
 # 🛠️ Tools
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git" width="48">](https://git-scm.com/)
