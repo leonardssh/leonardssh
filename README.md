@@ -14,6 +14,7 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
    - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`]
    - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="26" align="center"> [`leonardssh22`][Facebook]
    
 #### 🌟 Skills
    - Fast learner
@@ -112,6 +113,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`leonardssh`]:            https://dev.to/leonardssh
 [`Leonard#6666`]:          https://discord.com/users/290131759159443457
 [`contact@leonard.pw`]:    mailto:contact@leonard.pw
+[Facebook]:                https://www.facebook.com/leonardssh22
 
 [`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
 [`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
