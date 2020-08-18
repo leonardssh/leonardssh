@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
-    &emsp;
-</p>
-
 ### Hi there 👋
 
 My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
@@ -103,3 +98,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+    <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
+</p>
