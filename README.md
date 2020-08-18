@@ -10,7 +10,7 @@
 
 #### I'm just a simple guy who likes to write code all day.
 
-- 🏢 I'm currently working on a personal project, a discord bot based on Romanian memes, [**RoMemer**](https://github.com/RoMemer). (Inspired by [**DankMemer**](https://github.com/DankMemer))
+- 🏢 I'm currently working on a personal project, a multi purpose, open source discord bot. [@**valet**](https://github.com/TheValetBot).
 - 🌱 Learning all about [**Typescript**](https://www.typescriptlang.org/) & [**Angular**](https://angular.io/)
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
