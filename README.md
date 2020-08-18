@@ -9,12 +9,14 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
 #### 📫 How to reach me
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center"> [`leonardssh22`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="24" align="center"> [`leonardssh_22`]
-   - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="26" align="center"> [`leonardssh22`][Facebook]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="26" align="center"> [`leonardssh22`][Instagram]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="24" align="center"> [`leonardssh_22`][Twitter]
+   - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`][DevTo]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="23" align="center"> [`Leonard#6666`][Discord]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`][Gmail]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="25" align="center"> [`leonardssh22`][Facebook]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="26" align="center"> [`leonardssh22`][YouTube]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="26" align="center"> [`leonardssh22`][Twitch]
    
 #### 🌟 Skills
    - Fast learner
@@ -106,14 +108,18 @@ TSQL                     1 repos             ██░░░░░░░░░�
 
 [`discord`]:               https://discord.com/
 
+[BASE_URL]:                 https://github.com/LeonardSSH/LeonardSSH/blob/master/
+
 [@valet]:                  https://github.com/TheValetBot
 
-[`leonardssh22`]:          https://www.instagram.com/leonardssh22/
-[`leonardssh_22`]:         https://twitter.com/leonardssh_22
-[`leonardssh`]:            https://dev.to/leonardssh
-[`Leonard#6666`]:          https://discord.com/users/290131759159443457
-[`contact@leonard.pw`]:    mailto:contact@leonard.pw
+[Instagram]:               https://www.instagram.com/leonardssh22/
+[Twitter]:                 https://twitter.com/leonardssh_22
+[DevTo]:                   https://dev.to/leonardssh
+[Discord]:                 https://discord.com/users/290131759159443457
+[Gmail]:                   mailto:contact@leonard.pw
 [Facebook]:                https://www.facebook.com/leonardssh22
+[YouTube]:                 https://www.youtube.com/LeonardSSH
+[Twitch]:                  https://www.twitch.tv/leonardssh22
 
 [`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
 [`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
