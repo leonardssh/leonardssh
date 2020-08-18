@@ -2,8 +2,8 @@
 
 My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source discord bot. [@**valet**](https://github.com/TheValetBot)
-- 🌱 Learning all about [**Typescript**](https://www.typescriptlang.org/) & [**Angular**](https://angular.io/)
+- 🏢 I'm currently working on a personal project, a multi purpose, open source discord bot. [`valet`](https://github.com/TheValetBot)
+- 🌱 Learning all about [`Typescript`](https://www.typescriptlang.org/) & [`Angular`](https://angular.io/)
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
