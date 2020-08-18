@@ -9,11 +9,11 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 
 #### 📫 How to reach me
-   - <img src="https://i.imgur.com/AiIxUPV.png" alt="Instagram" width="24" align="center"> [`leonardssh22`]
-   - <img src="https://i.imgur.com/c0vbu2a.png" alt="Twitter" width="24" align="center"> [`leonardssh_22`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center"> [`leonardssh22`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="24" align="center"> [`leonardssh_22`]
    - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`]
-   - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="26" align="center"> [`leonardssh22`][Facebook]
    
 #### 🌟 Skills
