@@ -2,8 +2,8 @@
 
 My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source [`discord`] bot. You can find all related repos [@valet].
-- 🌱 Learning all about [`Typescript`] & [`Angular`]
+- 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [@valet].
+- 🌱 Learning all about <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24" align="center">[`Angular`]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
