@@ -17,6 +17,8 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center"> [`leonardssh22`][Facebook]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center"> [`LeonardSSH`][YouTube]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center"> [`leonardssh22`][Twitch]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Twitch" width="32" align="center"> [`leonardssh`][Steam]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="32" align="center"> [`Leonard`][Spotify]
    
 #### 🌟 Skills
    - Fast learner
@@ -120,6 +122,8 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Facebook]:                https://www.facebook.com/leonardssh22
 [YouTube]:                 https://www.youtube.com/LeonardSSH
 [Twitch]:                  https://www.twitch.tv/leonardssh22
+[Steam]:                   https://steamcommunity.com/id/leonardssh/
+[Spotify]:                 https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt
 
 [`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
 [`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
