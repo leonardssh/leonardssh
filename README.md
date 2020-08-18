@@ -143,11 +143,22 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`VSCode Insiders`]:       https://code.visualstudio.com/insiders/
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
+[`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
+
 <!--END_SECTION:links-->
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&count_private=true&hide_border=true" alt="Github Stats" align="center">
-</p>
+<!-- From Vlad Frangu (https://github.com/vladfrangu)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&count_private=true&hide_border=true" alt="Github Stats" align="center">
+    </td>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardssh&layout=compact&title_color=9fa6b2&text_color=eeeeee&bg_color=16171b&hide_border=true&icon_color=6875f5&hide=visual%20basic" />
+    </td>
+  </tr>
+</table> 
+> Provided by [`GitHub Readme Stats`] -->
 
 <p align="center">
     &emsp;
