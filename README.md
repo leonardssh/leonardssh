@@ -7,19 +7,21 @@ My name is Leonard and I'm an 18 year old Full Stack Web Developer from Romania.
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-- 📫 How to reach me
-    - <img src="https://i.imgur.com/AiIxUPV.png" alt="Instagram" width="24" align="center"> [`leonardssh22`](https://www.instagram.com/leonardssh22/)
-    - <img src="https://i.imgur.com/c0vbu2a.png" alt="Twitter" width="24" align="center"> [`leonardssh_22`](https://twitter.com/leonardssh_22)
-    - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`](https://dev.to/leonardssh)
-    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`](https://discord.com/users/290131759159443457)
-    - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`](mailto:contact@leonard.pw)
-- 🌟 Skills:
-    - Fast learner
-    - Adaptability
-    - Organization
-    - Teamwork
-    - Problem-solving
-    - Self Motivation
+
+#### 📫 How to reach me
+   - <img src="https://i.imgur.com/AiIxUPV.png" alt="Instagram" width="24" align="center"> [`leonardssh22`](https://www.instagram.com/leonardssh22/)
+   - <img src="https://i.imgur.com/c0vbu2a.png" alt="Twitter" width="24" align="center"> [`leonardssh_22`](https://twitter.com/leonardssh_22)
+   - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="24" align="center"> [`leonardssh`](https://dev.to/leonardssh)
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center"> [`Leonard#6666`](https://discord.com/users/290131759159443457)
+   - <img src="https://i.imgur.com/GL4DGyV.png" alt="Gmail" width="24" align="center"> [`contact@leonard.pw`](mailto:contact@leonard.pw)
+   
+#### 🌟 Skills
+   - Fast learner
+   - Adaptability
+   - Organization
+   - Teamwork
+   - Problem-solving
+   - Self Motivation
 
 <!-- - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd` -->
 <!-- [<img src="" alt="" width="48">]() -->
