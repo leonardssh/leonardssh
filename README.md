@@ -100,5 +100,10 @@ TSQL                     1 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&count_private=true&hide_border=true" alt="Github Stats" align="center">
+</p>
+
+<p align="center">
+    &emsp;
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
 </p>
