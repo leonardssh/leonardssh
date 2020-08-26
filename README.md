@@ -2,7 +2,7 @@
 
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
-- 🏢 I'm currently working on a personal project a multi purpose, <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. [@TheValetBot].
+- 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [@TheValetBot].
 - 🌱 Learning all about <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24" align="center">[`Angular`]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
