@@ -3,10 +3,11 @@
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
-- 🌱 Learning all about <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24" align="center">[`Angular`]
+- 🌱 I’m currently learning all about <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24" align="center">[`Angular`]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
+- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best **[`manele playlist`]** on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
 
 #### 📫 How to reach me
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center"> [`leonardssh22`][Instagram]
@@ -143,22 +144,9 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`VSCode Insiders`]:       https://code.visualstudio.com/insiders/
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
-[`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
+[`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 
 <!--END_SECTION:links-->
-
-<!-- From Vlad Frangu (https://github.com/vladfrangu)
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LeonardSSH&show_icons=true&title_color=9fa6b2&icon_color=6875f5&text_color=eeeeee&bg_color=16171b&count_private=true&hide_border=true" alt="Github Stats" align="center">
-    </td>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardssh&layout=compact&title_color=9fa6b2&text_color=eeeeee&bg_color=16171b&hide_border=true&icon_color=6875f5&hide=visual%20basic" />
-    </td>
-  </tr>
-</table> 
-> Provided by [`GitHub Readme Stats`] -->
 
 <p align="center">
     <a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
