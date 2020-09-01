@@ -7,7 +7,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best **[`manele playlist`]** on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
+- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
 
 #### 📫 How to reach me
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center"> [`leonardssh22`][Instagram]
