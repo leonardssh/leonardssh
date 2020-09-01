@@ -20,6 +20,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center"> [`leonardssh22`][Twitch]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Twitch" width="32" align="center"> [`leonardssh`][Steam]
    - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="32" align="center"> [`Leonard`][Spotify]
+   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center"> [`Leonard`][Leaks-Profile]
    
 #### 🌟 Skills
    - Fast learner
@@ -145,6 +146,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`Sublime Text 3`]:        https://www.sublimetext.com/
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
+[Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 
 <!--END_SECTION:links-->
 
