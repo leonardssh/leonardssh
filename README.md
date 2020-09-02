@@ -8,6 +8,12 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
+- 🥅 2020 Goals: 
+   - [ ] Contribute more to Open Source projects
+   - [ ] Make my own framework for the [`@TheValetBot`]
+   - [ ] Finish [`@TheValetBot`] 😂
+   - [ ] Learn everything about Typescript
+   - [ ] Learn everything about API
    
 #### 🌟 Skills
    - Fast learner
@@ -55,6 +61,11 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 
 <hr>
 
+<details>
+   <summary>⚡ Stats</summary>
+   
+   <br>
+   
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -123,6 +134,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 <!--START_SECTION:links-->
 
