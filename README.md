@@ -10,17 +10,19 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
 
 #### 📫 How to reach me
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center"> [`leonardssh22`][Instagram]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center"> [`leonardssh_22`][Twitter]
-   - <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center"> [`leonardssh`][DevTo]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center"> [`Leonard#6666`][Discord]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center"> [`contact@leonard.pw`][Gmail]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center"> [`leonardssh22`][Facebook]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center"> [`LeonardSSH`][YouTube]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center"> [`leonardssh22`][Twitch]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Twitch" width="32" align="center"> [`leonardssh`][Steam]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="32" align="center"> [`Leonard`][Spotify]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center"> [`Leonard`][Leaks-Profile]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="left">][Instagram]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="left">][Twitter]
+[<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="left">][DevTo]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="left">][Discord]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="left">][Gmail]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="left">][Facebook]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="left">][YouTube]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="left">][Twitch]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Twitch" width="32" align="left">][Steam]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="32" align="left">][Spotify]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="left">][Leaks-Profile]
+   
+<br />
    
 #### 🌟 Skills
    - Fast learner
@@ -34,24 +36,24 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <!-- [<img src="" alt="" width="48">]() -->
 
 #### 👨‍💻 Languages
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center"> [`HTML5`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center"> [`CSS3`]
-   - <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32" align="center"> [`PHP`]
-   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32" align="center"> [`Node.js`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center"> [`Javascript`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center"> [`Typescript`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center"> [`Sass`]
-   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="32" align="center"> [`Vue.js`]
-   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="36" align="center"> [`Angular`]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center">][HTML5]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center">][CSS3]
+[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32" align="center">][PHP]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32" align="center">][Node.js]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center">][JS]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="32" align="center">][Vue.js]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="36" align="center">][Angular]
 
 #### 🛠️ Tools
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center"> [`Git`]
-   - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center"> [`npm`]
-   - <img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32" align="center"> [`MySQL`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center"> [`MongoDB`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center"> [`PostgreSQL`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center"> [`VSCode Insiders`]
-   - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32" align="center"> [`Sublime Text 3`]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center">][Git]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center">][npm]
+[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32" align="center">][MySQL]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center">][MongoDB]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center">][PostgreSQL]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center">][VSCode Insiders]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32" align="center">][Sublime Text 3]
 
 <hr>
 
@@ -143,23 +145,23 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Steam]:                   https://steamcommunity.com/id/leonardssh/
 [Spotify]:                 https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt
 
-[`HTML5`]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
-[`CSS3`]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
-[`PHP`]:                   https://www.php.net/
-[`Node.js`]:               https://nodejs.org/en/
-[`Javascript`]:            https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[`Typescript`]:            https://www.typescriptlang.org/
-[`Sass`]:                  https://sass-lang.com/
-[`Vue.js`]:                https://vuejs.org/
-[`Angular`]:               https://angular.io/
+[HTML5]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS3]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
+[PHP]:                   https://www.php.net/
+[Node.js]:               https://nodejs.org/en/
+[JS]:                    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TS]:                    https://www.typescriptlang.org/
+[Sass]:                  https://sass-lang.com/
+[Vue.js]:                https://vuejs.org/
+[Angular]:               https://angular.io/
 
-[`Git`]:                   https://git-scm.com/
-[`npm`]:                   https://npmjs.com
-[`MySQL`]:                 https://www.mysql.com/
-[`MongoDB`]:               https://www.mongodb.com/
-[`PostgreSQL`]:            https://www.postgresql.org/
-[`VSCode Insiders`]:       https://code.visualstudio.com/insiders/
-[`Sublime Text 3`]:        https://www.sublimetext.com/
+[Git]:                   https://git-scm.com/
+[npm]:                   https://npmjs.com
+[MySQL]:                 https://www.mysql.com/
+[MongoDB]:               https://www.mongodb.com/
+[PostgreSQL]:            https://www.postgresql.org/
+[VSCode Insiders]:       https://code.visualstudio.com/insiders/
+[Sublime Text 3]:        https://www.sublimetext.com/
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
