@@ -3,7 +3,7 @@
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
-- 🌱 I’m currently learning all about <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`][TS] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="24" align="center">[`Angular`][Angular]
+- 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`][TS] & <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
@@ -13,8 +13,9 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Contribute more to Open Source projects
    - [ ] Make my own framework for the [`@TheValetBot`]
    - [ ] Finish [`@TheValetBot`] 😂
-   - [ ] Learn everything about Typescript
-   - [ ] Learn everything about API
+   - [ ] Learn Typescript
+   - [ ] Learn React
+   - [ ] Learn more about API
    
 #### 🌟 Skills
    - Fast learner
@@ -36,8 +37,8 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">][Facebook]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">][YouTube]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">][Twitch]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Twitch" width="32" align="center">][Steam]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="32" align="center">][Spotify]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
 
 #### 👨‍💻 Languages
@@ -49,7 +50,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="32" align="center">][Vue.js]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="36" align="center">][Angular]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="32" align="center">][React]
 
 #### 🛠️ Tools
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center">][Git]
@@ -141,9 +142,9 @@ TSQL                     1 repos             ██░░░░░░░░░�
 
 [`discord`]:               https://discord.com/
 
-[BASE_URL]:                 https://github.com/LeonardSSH/LeonardSSH/blob/master/
+[BASE_URL]:                https://github.com/LeonardSSH/LeonardSSH/blob/master/
 
-[`@TheValetBot`]:                  https://github.com/TheValetBot
+[`@TheValetBot`]:          https://github.com/TheValetBot
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
@@ -156,23 +157,23 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Steam]:                   https://steamcommunity.com/id/leonardssh/
 [Spotify]:                 https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt
 
-[HTML5]:                 https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS3]:                  https://developer.mozilla.org/en-US/docs/Web/CSS
-[PHP]:                   https://www.php.net/
-[Node.js]:               https://nodejs.org/en/
-[JS]:                    https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[TS]:                    https://www.typescriptlang.org/
-[Sass]:                  https://sass-lang.com/
-[Vue.js]:                https://vuejs.org/
-[Angular]:               https://angular.io/
+[HTML5]:                   https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS3]:                    https://developer.mozilla.org/en-US/docs/Web/CSS
+[PHP]:                     https://www.php.net/
+[Node.js]:                 https://nodejs.org/en/
+[JS]:                      https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TS]:                      https://www.typescriptlang.org/
+[Sass]:                    https://sass-lang.com/
+[Vue.js]:                  https://vuejs.org/
+[React]:                   https://reactjs.org/
 
-[Git]:                   https://git-scm.com/
-[npm]:                   https://npmjs.com
-[MySQL]:                 https://www.mysql.com/
-[MongoDB]:               https://www.mongodb.com/
-[PostgreSQL]:            https://www.postgresql.org/
-[VSCode Insiders]:       https://code.visualstudio.com/insiders/
-[Sublime Text 3]:        https://www.sublimetext.com/
+[Git]:                     https://git-scm.com/
+[npm]:                     https://npmjs.com
+[MySQL]:                   https://www.mysql.com/
+[MongoDB]:                 https://www.mongodb.com/
+[PostgreSQL]:              https://www.postgresql.org/
+[VSCode Insiders]:         https://code.visualstudio.com/insiders/
+[Sublime Text 3]:          https://www.sublimetext.com/
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
