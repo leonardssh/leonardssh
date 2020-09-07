@@ -3,7 +3,7 @@
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
-- 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`][TS] & <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
+- 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS] & <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
@@ -13,8 +13,8 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Contribute more to Open Source projects
    - [ ] Make my own framework for the [`@TheValetBot`]
    - [ ] Finish [`@TheValetBot`] 😂
-   - [ ] Learn Typescript
-   - [ ] Learn React
+   - [ ] Learn <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS]
+   - [ ] Learn <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
    - [ ] Learn more about API
    
 #### 🌟 Skills
