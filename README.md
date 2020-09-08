@@ -18,6 +18,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Learn <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS]
    - [ ] Learn <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
    - [ ] Learn more about API
+   - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
    
 #### 🌟 Skills
    - Fast learner
