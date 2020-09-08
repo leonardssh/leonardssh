@@ -2,12 +2,14 @@
 
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
-- 🏢 I'm currently working on a personal project, a multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
+- 🏢 I'm currently working on 2 personal projects:
+   - A multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
+   - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server (platform: [`rage.mp`]). [`@rysemultiplayer`]
 - 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS] & <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romanians)
+- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
 
 #### 🥅 2020 Goals: 
    - [ ] Contribute more to Open Source projects
@@ -145,6 +147,10 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [BASE_URL]:                https://github.com/LeonardSSH/LeonardSSH/blob/master/
 
 [`@TheValetBot`]:          https://github.com/TheValetBot
+
+[`rage.mp`]:               https://rage.mp/
+[`@rysemultiplayer`]:      https://github.com/rysemultiplayer
+
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
