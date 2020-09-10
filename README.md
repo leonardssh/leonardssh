@@ -28,9 +28,6 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - Problem-solving
    - Self Motivation
 
-<!-- - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.php`, `.html`, `.css`, `.scss`, `.psd` -->
-<!-- [<img src="" alt="" width="48">]() -->
-
 #### 📫 How to reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32" align="center">][Instagram]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">][Twitter]
