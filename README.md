@@ -3,7 +3,7 @@
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on 2 personal projects:
-   - A multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="24" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
+   - A multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
    - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server (platform: [`rage.mp`]). [`@rysemultiplayer`]
 - 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS] & <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React]
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
