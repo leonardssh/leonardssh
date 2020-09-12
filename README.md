@@ -5,7 +5,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - 🏢 I'm currently working on 2 personal projects:
    - A multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
    - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server (platform: [`rage.mp`]). [`@rysemultiplayer`]
-- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="26" align="center">][Angular] (occasionally [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center">][React] or [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24" align="center">][Vue.js])
+- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="26" align="center">][Angular] (occasionally [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center">][React] or [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="28" align="center">][Vue.js])
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
@@ -48,7 +48,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center">][JS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="32" align="center">][Vue.js]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="32" align="center">][Vue.js]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="32" align="center">][React]
 
 #### 🛠️ Tools
