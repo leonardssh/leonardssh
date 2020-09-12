@@ -5,7 +5,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - 🏢 I'm currently working on 2 personal projects:
    - A multi purpose, open source <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">[`discord`] bot. You can find all related repos [`@TheValetBot`].
    - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server (platform: [`rage.mp`]). [`@rysemultiplayer`]
-- 🌱 I’m currently learning <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">[`Typescript`][TS] & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24" align="center"> [`Vue.js`][Vue.js] (occasionally <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React])
+- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="28" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="26" align="center">][Angular] (occasionally [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center">][React] or [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24" align="center">][Vue.js])
 - 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
 - 😄 Pronouns: **he/him**
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
@@ -15,8 +15,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Contribute more to Open Source projects
    - [ ] Make my own framework for the [`@TheValetBot`]
    - [ ] Finish [`@TheValetBot`] 😂
-   - [ ] Learn <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="24" align="center">[`Typescript`][TS]
-   - [ ] Learn <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24" align="center"> [`Vue.js`][Vue.js] (possibly <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="24" align="center"> [`React`][React])
+   - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="28" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="28" align="center">][Angular]
    - [ ] Learn more about API
    - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
    
@@ -170,6 +169,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Sass]:                    https://sass-lang.com/
 [Vue.js]:                  https://vuejs.org/
 [React]:                   https://reactjs.org/
+[Angular]:                 https://angular.io/
 
 [Git]:                     https://git-scm.com/
 [npm]:                     https://npmjs.com
