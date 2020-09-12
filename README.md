@@ -48,7 +48,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center">][JS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="32" align="center">][Vue.js]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36" align="center">][Vue.js]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="32" align="center">][React]
 
 #### 🛠️ Tools
