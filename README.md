@@ -11,6 +11,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
 
+<!--
 #### 🥅 2020 Goals: 
    - [ ] Contribute more to Open Source projects
    - [ ] Make my own framework for the [`@TheValetBot`]
@@ -18,6 +19,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="32" align="center">][Angular]
    - [ ] Learn more about API
    - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
+-->
    
 #### 🌟 Skills
    - Fast learner
