@@ -1,6 +1,7 @@
 name: Waka Readme
 
 on:
+  push:
   schedule:
     - cron: '30 18 * * *'
 
