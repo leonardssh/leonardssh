@@ -65,7 +65,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <hr>
 
 <details>
-   <summary>⚡ More about me</summary>
+   <summary>⚡ Github Statistics</summary>
    
    <br>
    
