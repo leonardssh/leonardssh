@@ -43,16 +43,15 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30">][Leaks-Profile]</code>
 
 #### 👨‍💻 Languages
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center">][HTML5]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center">][CSS3]
-[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32" align="center">][PHP]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32" align="center">][Node.js]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center">][JS]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="38" align="center">][Angular]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36" align="center">][Vue.js]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/react.svg" alt="React" width="32" align="center">][React]
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36">][HTML5]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36">][CSS3]</code>
+<code>[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32">][PHP]</code>
+<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32">][Node.js]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36">][JS]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36">][TS]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36">][Sass]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="38">][Angular]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]</code>
 
 #### 🛠️ Tools
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center">][Git]
@@ -169,7 +168,6 @@ TypeScript               1 repos             ██░░░░░░░░░�
 [TS]:                      https://www.typescriptlang.org/
 [Sass]:                    https://sass-lang.com/
 [Vue.js]:                  https://vuejs.org/
-[React]:                   https://reactjs.org/
 [Angular]:                 https://angular.io/
 
 [Git]:                     https://git-scm.com/
