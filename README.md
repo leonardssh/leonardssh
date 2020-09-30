@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
-[![Years Badge](https://badges.pufler.dev/years/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
-[![Repos Badge](https://badges.pufler.dev/repos/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
-[![Updated Badge](https://badges.pufler.dev/updated/LeonardSSH/LeonardSSH/?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
+[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
+[![Years Badge](https://badges.pufler.dev/years/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
+[![Repos Badge](https://badges.pufler.dev/repos/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
+[![Updated Badge](https://badges.pufler.dev/updated/LeonardSSH/LeonardSSH/?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
@@ -70,7 +70,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <hr>
 
 <a href="https://github.com/leonardssh">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c93030&icon_color=c93030" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f" />
 </a>
 
 <details>
