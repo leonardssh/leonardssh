@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github)](https://pufler.dev/git-badges/)
+[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
+[![Years Badge](https://badges.pufler.dev/years/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
+[![Repos Badge](https://badges.pufler.dev/repos/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
+[![Updated Badge](https://badges.pufler.dev/updated/LeonardSSH/LeonardSSH?style=flat-square&color=c93030)](https://pufler.dev/git-badges/)
 
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
