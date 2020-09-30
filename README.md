@@ -81,7 +81,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
  > 
 > 📜 10 Public Repositories
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
 
 **I'm an Early 🐤** 
 
