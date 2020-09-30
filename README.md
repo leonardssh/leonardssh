@@ -144,8 +144,6 @@ TypeScript               1 repos             ██░░░░░░░░░�
 
 [`discord`]:               https://discord.com/
 
-[BASE_URL]:                https://github.com/LeonardSSH/LeonardSSH/blob/master/
-
 [`@TheValetBot`]:          https://github.com/TheValetBot
 
 [RAGEMP]:                  https://rage.mp/
