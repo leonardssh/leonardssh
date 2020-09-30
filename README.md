@@ -73,7 +73,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,677 Contributions in the Year 2020
+> 🏆 1,679 Contributions in the Year 2020
  > 
 > 📦 51.3 kB Used in Github's Storage 
  > 
