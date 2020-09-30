@@ -21,7 +21,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
 -->
    
-#### 🌟 Skills
+### 🌟 Skills
    - Fast learner
    - Adaptability
    - Organization
@@ -29,7 +29,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - Problem-solving
    - Self Motivation
 
-#### 📫 How to reach me
+### 📫 How to reach me
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px">][Instagram]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32">][Twitter]</code>
 <code>[<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32">][DevTo]</code>
@@ -42,7 +42,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32">][Spotify]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30">][Leaks-Profile]</code>
 
-#### 👨‍💻 Languages
+### 👨‍💻 Languages
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36">][HTML5]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36">][CSS3]</code>
 <code>[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32">][PHP]</code>
@@ -53,7 +53,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="38">][Angular]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]</code>
 
-#### 🛠️ Tools
+### 🛠️ Tools
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36">][Git]</code>
 <code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32">][npm]</code>
 <code>[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32">][MySQL]</code>
