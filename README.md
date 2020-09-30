@@ -73,7 +73,7 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,680 Contributions in the Year 2020
+> 🏆 1,681 Contributions in the Year 2020
  > 
 > 📦 51.4 kB Used in Github's Storage 
  > 
@@ -95,9 +95,9 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Monday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
 Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Wednesday    166 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+Wednesday    167 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
 Thursday     210 commits    █████░░░░░░░░░░░░░░░░░░░░   21.23% 
 Friday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
 Saturday     203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.53% 
