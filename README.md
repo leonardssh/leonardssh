@@ -64,8 +64,13 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 
 <hr>
 
+<a href="https://github.com/leonardssh">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c93030&icon_color=c93030" />
+</a>
+
+
 <details>
-   <summary>⚡ Github Statistics</summary>
+   <summary>⚡ More Github Statistics</summary>
    
    <br>
    
@@ -137,6 +142,7 @@ TypeScript               1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
 </details>
 
 <!--START_SECTION:links-->
