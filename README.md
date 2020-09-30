@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github)](https://pufler.dev/git-badges/)
+
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on a personal project, a <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP]. [`@rysemultiplayer`]
@@ -187,7 +189,3 @@ TypeScript               1 repos             ██░░░░░░░░░�
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 
 <!--END_SECTION:links-->
-
-<p align="center">
-	<a href="https://pufler.dev/git-badges/" target="_blank"><img src="https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=6875f5&logo=github"></a>
-</p>
