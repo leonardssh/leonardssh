@@ -5,9 +5,9 @@
 My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
 - 🏢 I'm currently working on a personal project, a <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP]. [`@rysemultiplayer`]
-- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="28" align="center">][Angular] (occasionally [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="26" align="center">][Vue.js])
-- 💬 Ping me about **web dev**, **tech**, **cars**, **guns**
-- 😄 Pronouns: **he/him**
+- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="26" align="center">][Vue.js].
+- 💬 Ping me about **web dev**, **tech**, **cars**, **guns**.
+- 😄 Pronouns: **he/him**.
 - ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 - <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
 
@@ -21,6 +21,10 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
    - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="32" align="center">][Angular]
    - [ ] Learn more about API
    - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
+-->
+   
+<!--
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="28" align="center">][Angular] 
 -->
    
 ### 🌟 Skills
@@ -52,8 +56,11 @@ My name is Leonard and I'm an 18 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36">][JS]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36">][TS]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36">][Sass]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="38">][Angular]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]</code>
+
+<!--
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="38">][Angular]</code>
+-->
 
 ### 🛠️ Tools
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36">][Git]</code>
