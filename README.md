@@ -65,9 +65,18 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 
 <hr>
 
-<a href="https://github.com/leonardssh">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f" />
-</a>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardSSH&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+> Provided by [`GitHub Readme Stats`]
 
 <details>
    <summary>⚡ More Github Statistics</summary>
@@ -186,5 +195,6 @@ TSQL                     1 repos             ██░░░░░░░░░�
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--END_SECTION:links-->
