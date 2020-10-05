@@ -4,12 +4,12 @@
 
 My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
 
-- 🏢 I'm currently working on a personal project, a <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP]. [`@rysemultiplayer`]
-- 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="28" align="center">][Vue.js].
-- 💬 Ping me about **web dev**, **tech**, **cars**, **guns**.
-- 😄 Pronouns: **he/him**.
-- ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-- <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
+* 🏢 I'm currently working on a personal project, a <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP]. [`@rysemultiplayer`]
+* 🌱 I’m currently focusing on [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="28" align="center">][Vue.js].
+* 💬 Ping me about **web dev**, **tech**, **cars**, **guns**.
+* 😄 Pronouns: **he/him**.
+* ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
+* <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
 
 <!--   - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. -->
 
@@ -24,12 +24,12 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 -->
    
 ## 🌟 Skills
-   - Fast learner
-   - Adaptability
-   - Organization
-   - Teamwork
-   - Problem-solving
-   - Self Motivation
+   * Fast learner
+   * Adaptability
+   * Organization
+   * Teamwork
+   * Problem-solving
+   * Self Motivation
 
 ## 📫 Where you can reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
@@ -68,7 +68,7 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/photoshop.svg" alt="Photoshop" width="36" align="center">][Photoshop]
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28" align="center">][Illustrator]
 
-<hr>
+## 📊 Statistics
 
 <table>
   <tr>
