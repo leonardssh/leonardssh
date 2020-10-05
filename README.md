@@ -45,26 +45,28 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30">][Leaks-Profile]</code>
 
 ## 👨‍💻 Languages & 🛠️ Tools
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36">][HTML5]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36">][CSS3]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36">][Bootstrap]</code>
-<code>[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32">][PHP]</code>
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32">][Node.js]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36">][JS]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36">][TS]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36">][Sass]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]</code>
-<code>[<img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify.js" width="28">][Vuetify.js]</code>
-<code>[<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="32">][Nuxt.js]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36">][Git]</code>
-<code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32">][npm]</code>
-<code>[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32">][MySQL]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32">][MongoDB]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32">][PostgreSQL]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32">][VSCode Insiders]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32">][Sublime Text 3]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38">][Bash]</code>
-<code>[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="32">][Webpack]</code>
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center">][HTML5]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center">][CSS3]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36" align="center">][Bootstrap]
+[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32">][PHP]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32">][Node.js]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36">][JS]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36">][TS]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36">][Sass]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]
+[<img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify.js" width="28">][Vuetify.js]
+[<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="32">][Nuxt.js]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36">][Git]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32">][npm]
+[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32">][MySQL]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32">][MongoDB]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32">][PostgreSQL]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32">][VSCode Insiders]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32">][Sublime Text 3]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38">][Bash]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="32">][Webpack]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/photoshop.svg" alt="Photoshop" width="36">][Photoshop]
+[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28">][Illustrator]
 
 <hr>
 
@@ -199,6 +201,8 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Vuetify.js]:              https://vuetifyjs.com/en/
 [Webpack]:                 https://webpack.js.org
 [Nuxt.js]:                 https://nuxtjs.org/
+[Photoshop]:               https://www.photoshop.com/en
+[Illustrator]:             https://www.adobe.com/in/products/illustrator.html
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
