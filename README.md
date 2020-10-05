@@ -26,7 +26,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 -->
    
 ## 💻 What I'm working on
-   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP].
+   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="24" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="18" align="center">][RAGEMP].
    * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
    * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
    
