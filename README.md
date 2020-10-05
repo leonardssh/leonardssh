@@ -11,8 +11,6 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 * ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 * <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
 
-<!--   - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. -->
-
 <!--
 #### 🥅 2020 Goals: 
    - [ ] Contribute more to Open Source projects
@@ -22,6 +20,11 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
    - [ ] Learn more about API
    - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
 -->
+   
+## 💻 What I'm working on
+   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="20" align="center">][RAGEMP].
+   * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
+   * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
    
 ## 🌟 Skills
    * Fast learner
@@ -164,16 +167,15 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`discord`]:               https://discord.com/
 
 [`@TheValetBot`]:          https://github.com/TheValetBot
+[RYSE Multiplayer]:        https://github.com/rysemultiplayer
 
 [RAGEMP]:                  https://rage.mp/
-[`@rysemultiplayer`]:      https://github.com/rysemultiplayer
-
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
 [DevTo]:                   https://dev.to/leonardssh
 [Discord]:                 https://discord.com/users/290131759159443457
-[Gmail]:                   mailto:contact@leonard.pw
+[Gmail]:                   mailto:contact@leonard.sh
 [Facebook]:                https://www.facebook.com/leonardssh22
 [YouTube]:                 https://www.youtube.com/LeonardSSH
 [Twitch]:                  https://www.twitch.tv/leonardssh22
