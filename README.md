@@ -74,6 +74,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="34" align="center">][Webpack]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/photoshop.svg" alt="Photoshop" width="36" align="center">][Photoshop]
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28" align="center">][Illustrator]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="32" align="center">][Linux]
 
 ## 📊 Statistics
 
@@ -209,6 +210,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Nuxt.js]:                 https://nuxtjs.org/
 [Photoshop]:               https://www.photoshop.com/en
 [Illustrator]:             https://www.adobe.com/in/products/illustrator.html
+[Linux]:                   https://www.linux.org/
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
