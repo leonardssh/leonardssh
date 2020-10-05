@@ -47,12 +47,15 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 ## 👨‍💻 Languages & 🛠️ Tools
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36">][HTML5]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36">][CSS3]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36">][Bootstrap]</code>
 <code>[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32">][PHP]</code>
 <code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32">][Node.js]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36">][JS]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36">][TS]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36">][Sass]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36">][Vue.js]</code>
+<code>[<img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify.js" width="28">][Vuetify.js]</code>
+<code>[<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="32">][Nuxt.js]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36">][Git]</code>
 <code>[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32">][npm]</code>
 <code>[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32">][MySQL]</code>
@@ -61,7 +64,7 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32">][VSCode Insiders]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32">][Sublime Text 3]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38">][Bash]</code>
-<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36">][Bootstrap]</code>
+<code>[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="32">][Webpack]</code>
 
 <hr>
 
@@ -193,6 +196,9 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Sublime Text 3]:          https://www.sublimetext.com/
 [Bash]:                    https://www.gnu.org/software/bash/
 [Bootstrap]:               https://getbootstrap.com
+[Vuetify.js]:              https://vuetifyjs.com/en/
+[Webpack]:                 https://webpack.js.org
+[Nuxt.js]:                 https://nuxtjs.org/
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
