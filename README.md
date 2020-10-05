@@ -60,6 +60,8 @@ My name is Leonard and I'm an 19 y.o full-stack web developer from <img src="htt
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32">][PostgreSQL]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32">][VSCode Insiders]</code>
 <code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32">][Sublime Text 3]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38">][Bash]</code>
+<code>[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36">][Bootstrap]</code>
 
 <hr>
 
@@ -181,7 +183,6 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [TS]:                      https://www.typescriptlang.org/
 [Sass]:                    https://sass-lang.com/
 [Vue.js]:                  https://vuejs.org/
-[Angular]:                 https://angular.io/
 
 [Git]:                     https://git-scm.com/
 [npm]:                     https://npmjs.com
@@ -190,9 +191,11 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [PostgreSQL]:              https://www.postgresql.org/
 [VSCode Insiders]:         https://code.visualstudio.com/insiders/
 [Sublime Text 3]:          https://www.sublimetext.com/
+[Bash]:                    https://www.gnu.org/software/bash/
+[Bootstrap]:               https://getbootstrap.com
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
 
 <!--END_SECTION:links-->
