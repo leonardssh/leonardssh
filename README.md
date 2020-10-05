@@ -71,7 +71,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center">][VSCode Insiders]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext.svg" alt="Sublime Text 3" width="32" align="center">][Sublime Text 3]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38" align="center">][Bash]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="38" align="center">][Webpack]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="34" align="center">][Webpack]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/photoshop.svg" alt="Photoshop" width="36" align="center">][Photoshop]
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28" align="center">][Illustrator]
 
