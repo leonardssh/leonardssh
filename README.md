@@ -2,7 +2,7 @@
 
 [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
-I'm Narcis, also known as Leonard and I'm an 19 y.o self-taught programmer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="26" align="center"> Romania.
+I'm Narcis, also known as Leonard and I'm an 19 y.o self-taught programmer from <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Instagram" width="24" align="center"> Romania.
 <br />
 I like to pronounce my handle as stuck.
 <br />
@@ -10,7 +10,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 
 <hr>
 
-* 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="28" align="center">][Vue.js].
+* 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="26" align="center">][Vue.js].
 * 😄 Pronouns: **he/him**.
 * ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 * <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="26" align="center"> Romanians)
