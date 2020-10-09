@@ -68,6 +68,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32" align="center">][MySQL]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center">][MongoDB]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center">][PostgreSQL]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/neovim.svg" alt="NeoVIM" width="32" align="center">][NeoVIM]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center">][VSCode Insiders]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext3.svg" alt="Sublime Text 3" width="32" align="center">][Sublime Text 3]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38" align="center">][Bash]
@@ -203,6 +204,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [MySQL]:                   https://www.mysql.com/
 [MongoDB]:                 https://www.mongodb.com/
 [PostgreSQL]:              https://www.postgresql.org/
+[NeoVIM]:                  https://neovim.io/
 [VSCode Insiders]:         https://code.visualstudio.com/insiders/
 [Sublime Text 3]:          https://www.sublimetext.com/
 [Bash]:                    https://www.gnu.org/software/bash/
