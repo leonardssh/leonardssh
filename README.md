@@ -79,6 +79,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/redis.svg" alt="Redis" width="32" align="center">][Redis]
 
 ## 📊 Statistics
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">][Wakatime]
 
 <table>
   <tr>
@@ -220,5 +221,7 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 [`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
+
+[Wakatime]:                https://wakatime.com/@leonard
 
 <!--END_SECTION:links-->
