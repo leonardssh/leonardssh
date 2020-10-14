@@ -61,7 +61,6 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36" align="center">][Vue.js]
-[<img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify.js" width="28" align="center">][Vuetify.js]
 [<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="32" align="center">][Nuxt.js]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center">][Git]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center">][npm]
@@ -211,7 +210,6 @@ TSQL                     1 repos             ██░░░░░░░░░�
 [Sublime Text 3]:          https://www.sublimetext.com/
 [Bash]:                    https://www.gnu.org/software/bash/
 [Bootstrap]:               https://getbootstrap.com
-[Vuetify.js]:              https://vuetifyjs.com/en/
 [Webpack]:                 https://webpack.js.org
 [Nuxt.js]:                 https://nuxtjs.org/
 [Photoshop]:               https://www.photoshop.com/en
