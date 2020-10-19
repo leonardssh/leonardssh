@@ -16,30 +16,6 @@ Passionate about everything that means technology and programming in general, I 
       * Build a CLI for RAGE:MP Community, from "Idea to production". Still looking for a good idea.
 
 ---
-
-<!--
-* 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="22" align="center">][Vue.js].
-* 😄 Pronouns: **he/him**.
-* ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-* <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="20" align="center"> Romanians)
--->
-
-<!--
-#### 🥅 2020 Goals: 
-   - [ ] Contribute more to Open Source projects
-   - [ ] Make my own framework for the [`@TheValetBot`]
-   - [ ] Finish [`@TheValetBot`] 😂
-   - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="32" align="center">][Angular]
-   - [ ] Learn more about API
-   - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
--->
- 
-<!--
-## 💻 What I'm working on
-   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="24" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="18" align="center">][RAGEMP].
-   * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
-   * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
--->
    
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
@@ -79,55 +55,7 @@ These are my main hobbies in everyday life.
    
 ### 🧾 Github Statistics
 These are some statistics from my github account.
-   
-<!--
-## 📫 Where you can reach me
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">][Twitter]
-[<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">][DevTo]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">][Discord]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">][Gmail]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">][Facebook]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">][YouTube]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">][Twitch]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
--->
-
-<!--
-## 👨‍💻 Languages & 🛠️ Tools
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center">][HTML5]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center">][CSS3]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bootstrap.svg" alt="Bootstrap" width="36" align="center">][Bootstrap]
-[<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" width="32" align="center">][PHP]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="32" align="center">][Node.js]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/javascript.svg" alt="Javascript" width="36" align="center">][JS]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="36" align="center">][TS]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sass.svg" alt="Sass" width="36" align="center">][Sass]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="36" align="center">][Vue.js]
-[<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="32" align="center">][Nuxt.js]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/git.svg" alt="Git" width="36" align="center">][Git]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Node Package Manager" width="32" align="center">][npm]
-[<img src="https://i.imgur.com/SrEvsTW.png" alt="MySQL" width="32" align="center">][MySQL]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/mongodb.svg" alt="MongoDB" width="32" align="center">][MongoDB]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/postgresql.svg" alt="PostgreSQL" width="32" align="center">][PostgreSQL]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/neovim.svg" alt="NeoVIM" width="32" align="center">][NeoVIM]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vscodeinsiders.svg" alt="VSCodeInsiders" width="32" align="center">][VSCode Insiders]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/sublimetext3.svg" alt="Sublime Text 3" width="32" align="center">][Sublime Text 3]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/bash.svg" alt="Bash" width="38" align="center">][Bash]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="34" align="center">][Webpack]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/photoshop.svg" alt="Photoshop" width="36" align="center">][Photoshop]
-[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28" align="center">][Illustrator]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="32" align="center">][Linux]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/redis.svg" alt="Redis" width="32" align="center">][Redis]
--->
-
-<!--
-## 📊 Statistics
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">][Wakatime]
--->
-
+ 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -289,3 +217,29 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [Wakatime]:                https://wakatime.com/@leonard
 
 <!--END_SECTION:links-->
+
+<!-- Some shits -->
+
+<!--
+* 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="22" align="center">][Vue.js].
+* 😄 Pronouns: **he/him**.
+* ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
+* <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="20" align="center"> Romanians)
+-->
+
+<!--
+#### 🥅 2020 Goals: 
+   - [ ] Contribute more to Open Source projects
+   - [ ] Make my own framework for the [`@TheValetBot`]
+   - [ ] Finish [`@TheValetBot`] 😂
+   - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="32" align="center">][Angular]
+   - [ ] Learn more about API
+   - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
+-->
+ 
+<!--
+## 💻 What I'm working on
+   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="24" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="18" align="center">][RAGEMP].
+   * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
+   * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
+-->
