@@ -1,6 +1,6 @@
 ## 👋 Hello! [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
-My name is Narcis (from Greek mythology 😄), known as Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴
+My name is Narcis (from Greek mythology 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴
 
 I'm eager to learn new things. 
 Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
