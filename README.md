@@ -5,6 +5,46 @@ My name is Narcis (from Greek mythology 😄), known as 🦁 Leonard everywhere,
 I'm eager to learn new things. 
 Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
 
+<p align="center">
+   <a href="https://www.instagram.com/leonardssh22/" target="_blank">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
+   </a>
+   <a href="https://twitter.com/leonardssh_22" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
+   </a>
+   <a href="https://dev.to/leonardssh" target="_blank" rel="nofollow">
+      <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">
+   </a>
+   <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
+   </a>
+   <a href="mailto:contact@leonard.sh" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
+   </a>
+   
+   <a href="https://www.facebook.com/leonardssh22" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">
+   </a>
+   <a href="https://www.youtube.com/LeonardSSH" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
+   </a>
+   <a href="https://www.twitch.tv/leonardssh22" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">
+   </a>
+   <a href="https://steamcommunity.com/id/leonardssh/" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">
+   </a>
+   <a href="https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
+   </a>
+   <a href="https://www.leaks.ro/profile/8-leonard/" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">
+   </a>
+   <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">
+   </a>
+</p>
+
 ---
 
 ### 👨‍💻 What I do
@@ -146,23 +186,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 </details>
 
----
-
-### 📣 Where you can reach me
-
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">][Twitter]
-[<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">][DevTo]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">][Discord]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">][Gmail]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">][Facebook]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">][YouTube]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">][Twitch]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
-[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">][Wakatime]
-
 <!--START_SECTION:links-->
 
 [`discord`]:               https://discord.com/
@@ -212,8 +235,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 [`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
-
-[Wakatime]:                https://wakatime.com/@leonard
 
 <!--END_SECTION:links-->
 
