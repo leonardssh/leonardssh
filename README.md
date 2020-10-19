@@ -60,6 +60,8 @@ Passionate about everything that means technology and programming in general, I 
 
 ---
    
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+   
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
