@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hello!
 
 [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
@@ -8,12 +8,14 @@ I like to pronounce my handle as stuck.
 <br />
 My favorite stack is <b>MEVN</b>. ❤️
 
-<hr>
+---
 
+<!--
 * 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="22" align="center">][Vue.js].
 * 😄 Pronouns: **he/him**.
 * ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
 * <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="20" align="center"> Romanians)
+-->
 
 <!--
 #### 🥅 2020 Goals: 
@@ -32,7 +34,23 @@ My favorite stack is <b>MEVN</b>. ❤️
    * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
 -->
    
-## 🌟 Personal skills
+### 💻 Tech Stack
+These are my favorite tech stack for building all kinds of stuff.
+
+   * **Backend** - PHP 7/Laravel, NodeJS
+   * **Frontend** - HTML, CSS, Javascript, Vue, Nuxt, Sass, Bootstrap
+   * **Scripting** - Python, Bash
+   * **Design** - Photoshop, Illustrator
+   * **Datastores** - MySQL, MongoDB, Redis
+   * **IDEs** - NeoVIM, VS Code Insiders, Sublime Text 3
+   * **Tools** - git, npm, webpack
+   * **Other** - Linux, Windows
+   
+---
+   
+### 🌟 Abilities
+These are my main abilities in everyday life.
+
    * Fast learner
    * Adaptability
    * Organization
@@ -40,6 +58,7 @@ My favorite stack is <b>MEVN</b>. ❤️
    * Problem-solving
    * Self Motivation
 
+<!--
 ## 📫 Where you can reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">][Twitter]
@@ -52,7 +71,9 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
+-->
 
+<!--
 ## 👨‍💻 Languages & 🛠️ Tools
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/html5.svg" alt="HTML5" width="36" align="center">][HTML5]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/css3.svg" alt="CSS3" width="36" align="center">][CSS3]
@@ -78,9 +99,12 @@ My favorite stack is <b>MEVN</b>. ❤️
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="28" align="center">][Illustrator]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="32" align="center">][Linux]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/redis.svg" alt="Redis" width="32" align="center">][Redis]
+-->
 
+<!--
 ## 📊 Statistics
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">][Wakatime]
+-->
 
 <table>
   <tr>
