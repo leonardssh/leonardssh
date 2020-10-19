@@ -4,6 +4,16 @@ My name is Narcis (from Greek mythology 😄), known as Leonard everywhere and I
 
 ---
 
+### 👨‍💻 What I do
+   
+   * 💼 Working on [TheValetBot]
+      * An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
+   * 🎓 Learning - Typescript, Vue
+   * 🚧 Next projects
+      * Build a CLI for RAGE:MP Community, from "Idea to production". Still looking for a good idea.
+
+---
+
 <!--
 * 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="22" align="center">][Vue.js].
 * 😄 Pronouns: **he/him**.
@@ -66,6 +76,8 @@ These are my main hobbies in everyday life.
    
 ### 🧾 Github Statistics
 These are some statistics from my github account.
+   
+> [WakaTime Profile][Wakatime]
    
 <!--
 ## 📫 Where you can reach me
@@ -206,11 +218,27 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 </details>
 
+---
+
+### 📣 Where you can reach me
+
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">][Twitter]
+[<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">][DevTo]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">][Discord]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">][Gmail]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">][Facebook]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">][YouTube]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center">][Twitch]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
+
 <!--START_SECTION:links-->
 
 [`discord`]:               https://discord.com/
 
-[`@TheValetBot`]:          https://github.com/TheValetBot
+[TheValetBot]:             https://github.com/TheValetBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
 
 [RAGEMP]:                  https://rage.mp/
