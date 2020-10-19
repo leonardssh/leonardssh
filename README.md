@@ -70,10 +70,10 @@ These are my main skills that I deepen every day.
 ### 🌅 Hobbies
 These are my main hobbies in everyday life.
 
-   * 🏃 Walking and other outdoor activities
-   * 🚘 Petrolhead
-   * 🎮 Gaming
-   * ⚔️ History
+   * 🏃 **Walking and other outdoor activities**
+   * 🚘 **Petrolhead**
+   * 🎮 **Gaming**
+   * ⚔️ **History**
    
 --- 
    
