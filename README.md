@@ -12,8 +12,9 @@ Passionate about everything that means technology and programming in general, I 
    * 💼 Working on [TheValetBot]
       * An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
    * 🎓 Learning - Typescript, Vue
-   * 🚧 Next projects
-      * Build a CLI for RAGE:MP Community, from "Idea to production". Still looking for a good idea.
+   * 🚧 Next projects from "Idea to production"
+      * Build a coc-extension to get Discord Rich Presence integration with [NeoVim].
+      * Build a CLI for [RAGE:MP Community][RAGEMP] that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
 
 ---
    
@@ -25,7 +26,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Scripting** - Python, Bash
    * **Design** - Photoshop, Illustrator
    * **Datastores** - MySQL, MongoDB, Redis
-   * **IDEs** - NeoVIM, VS Code Insiders, Sublime Text 3
+   * **IDEs** - NeoVim, VS Code Insiders, Sublime Text 3
    * **Tools** - git, npm, webpack
    * **Other** - Linux, Windows
    
@@ -198,7 +199,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [MySQL]:                   https://www.mysql.com/
 [MongoDB]:                 https://www.mongodb.com/
 [PostgreSQL]:              https://www.postgresql.org/
-[NeoVIM]:                  https://neovim.io/
+[NeoVim]:                  https://neovim.io/
 [VSCode Insiders]:         https://code.visualstudio.com/insiders/
 [Sublime Text 3]:          https://www.sublimetext.com/
 [Bash]:                    https://www.gnu.org/software/bash/
