@@ -54,6 +54,16 @@ These are my main skills that I deepen every day.
 
 ---
 
+### 🌅 Hobbies
+These are my main hobbies in everyday life.
+
+   * 🏃 Walking and other outdoor activities
+   * 🚘 Petrolhead
+   * 🎮 Gaming
+   * ⚔️ History
+   
+--- 
+   
 <!--
 ## 📫 Where you can reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
