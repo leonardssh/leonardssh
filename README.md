@@ -77,8 +77,6 @@ These are my main hobbies in everyday life.
 ### 🧾 Github Statistics
 These are some statistics from my github account.
    
-> [WakaTime Profile][Wakatime]
-   
 <!--
 ## 📫 Where you can reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
@@ -233,6 +231,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">][Steam]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">][Spotify]
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">][Leaks-Profile]
+[<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">][Wakatime]
 
 <!--START_SECTION:links-->
 
