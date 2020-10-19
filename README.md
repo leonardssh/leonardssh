@@ -64,6 +64,9 @@ These are my main hobbies in everyday life.
    
 --- 
    
+### 🧾 Github Statistics
+These are some statistics from my github account.
+   
 <!--
 ## 📫 Where you can reach me
 [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Instagram" width="32px" align="center">][Instagram]
@@ -126,7 +129,7 @@ These are my main hobbies in everyday life.
 > Provided by [`GitHub Readme Stats`]
 
 <details>
-   <summary>⚡ More Github Statistics</summary>
+   <summary>⚡ Want more? </summary>
    
    <br>
    
