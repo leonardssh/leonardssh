@@ -47,7 +47,7 @@ These are my favorite tech stack for building all kinds of stuff.
 ---
    
 ### 🌟 Abilities
-These are my main abilities in everyday life.
+These are my main skills that I deepen every day.
 
    * **Fast learner**
    * **Adaptability**
