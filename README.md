@@ -33,7 +33,6 @@ These are my favorite tech stack for building all kinds of stuff.
 ---
    
 ### 🌟 Abilities
-These are my main skills that I deepen every day.
 
    * **Fast learner**
    * **Adaptability**
@@ -45,7 +44,6 @@ These are my main skills that I deepen every day.
 ---
 
 ### 🌅 Hobbies
-These are my main hobbies in everyday life.
 
    * 🏃 **Walking and other outdoor activities**
    * 🚘 **Petrolhead**
