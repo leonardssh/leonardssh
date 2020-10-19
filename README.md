@@ -1,11 +1,13 @@
-## 👋 Hello! [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
+
+[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
 My name is Narcis (from Greek mythology 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴
 
 I'm eager to learn new things. 
 Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
 
-<p align="center">
+<p align="right">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
    </a>
