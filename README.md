@@ -37,7 +37,7 @@ My favorite stack is <b>MEVN</b>. ❤️
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - PHP 7/Laravel, NodeJS
+   * **Backend** - NodeJS, PHP 7/Laravel
    * **Frontend** - HTML, CSS, Javascript, Vue, Nuxt, Sass, Bootstrap
    * **Scripting** - Python, Bash
    * **Design** - Photoshop, Illustrator
@@ -51,12 +51,14 @@ These are my favorite tech stack for building all kinds of stuff.
 ### 🌟 Abilities
 These are my main abilities in everyday life.
 
-   * Fast learner
-   * Adaptability
-   * Organization
-   * Teamwork
-   * Problem-solving
-   * Self Motivation
+   * **Fast learner**
+   * **Adaptability**
+   * **Organization**
+   * **Teamwork**
+   * **Problem-solving**
+   * **Self Motivation**
+
+---
 
 <!--
 ## 📫 Where you can reach me
