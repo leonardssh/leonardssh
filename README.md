@@ -2,7 +2,7 @@
 
 [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
 
-My name is Narcis (from Greek mythology 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴
+My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴
 
 I'm eager to learn new things. 
 Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
@@ -239,6 +239,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
 [`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
+[Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)
 
 <!--END_SECTION:links-->
 
