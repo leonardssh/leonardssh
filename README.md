@@ -51,7 +51,7 @@ Passionate about everything that means technology and programming in general, I 
 
 ### 👨‍💻 What I do
    
-   * 💼 Working on [TheValetBot]
+   * 💼 Working on **[ValetDiscordBot]**
       * An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
    * 🎓 Learning - Typescript, Vue
    * 🚧 Next projects from "Idea to production"
@@ -194,7 +194,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 [`discord`]:               https://discord.com/
 
-[TheValetBot]:             https://github.com/TheValetBot
+[ValetDiscordBot]:         https://github.com/ValetDiscordBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
 
 [RAGEMP]:                  https://rage.mp/
