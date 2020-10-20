@@ -55,8 +55,8 @@ Passionate about everything that means technology and programming in general, I 
       * An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
    * 🎓 Learning - Typescript, Vue
    * 🚧 Next projects from "Idea to production"
-      * Build a coc-extension to get Discord Rich Presence integration with [NeoVim].
-      * Build a CLI for [RAGE:MP Community][RAGEMP] that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
+      * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
 
 ---
    
@@ -110,7 +110,7 @@ These are some statistics from my github account.
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by **[GitHub Readme Stats]**
 
 <details>
    <summary>⚡ Want more? </summary>
@@ -238,7 +238,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
-[`GitHub Readme Stats`]:   https://github.com/anuraghazra/github-readme-stats
+[GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
 [Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)
 
 <!--END_SECTION:links-->
