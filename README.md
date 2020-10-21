@@ -51,11 +51,12 @@ Passionate about everything that means technology and programming in general, I 
 
 ### 👨‍💻 What I do
    
-   * 💼 Working on **[ValetDiscordBot]**
-      * An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
+   * 💼 Working on
+      * **[ValetDiscordBot]** - An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful systems, it makes it the best choice. (still developing... available soon™️)
+      * **[coc-rpc]** - A coc-extension to get Discord Rich Presence integration with **[NeoVim]**. (still developing... available soon™️)
    * 🎓 Learning - Typescript, Vue
    * 🚧 Next projects from "Idea to production"
-      * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      <!-- * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**. -->
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
 
 ---
@@ -196,6 +197,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 [ValetDiscordBot]:         https://github.com/ValetDiscordBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
+[coc-rpc]:                 https://github.com/LeonardSSH/coc-rpc
 
 [RAGEMP]:                  https://rage.mp/
 
