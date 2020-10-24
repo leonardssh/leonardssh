@@ -53,7 +53,7 @@ Passionate about everything that means technology and programming in general, I 
    
    * 💼 Working on
       <!-- * **[coc-rpc]** - A coc-extension to get Discord Rich Presence integration with **[NeoVim]**. (still developing... available soon™️) -->
-      * **[ValetDiscordBot]** - An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. (still developing... available soon™️)
+      * **[ValetDiscordBot]** - An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. (WIP)
    * 🎓 Learning - Typescript, Vue
    * 🚧 Next projects from "Idea to production"
       <!-- * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**. -->
