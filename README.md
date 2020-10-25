@@ -76,7 +76,8 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Other** - Linux, Windows
    
 ---
-   
+
+<!--
 ### 🌟 Abilities
 
    * **Fast learner**
@@ -85,17 +86,14 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Teamwork**
    * **Problem-solving**
    * **Self Motivation**
-
----
-
+   
 ### 🌅 Hobbies
 
    * 🏃 **Walking and other outdoor activities**
    * 🚘 **Petrolhead**
    * 🎮 **Gaming**
    * ⚔️ **History**
-   
---- 
+-->
    
 ### 🧾 Github Statistics
 These are some statistics from my github account.
