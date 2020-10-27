@@ -66,7 +66,7 @@ Passionate about everything that means technology and programming in general, I 
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - NodeJS, PHP 7/Laravel
+   * **Backend** - NodeJS
    * **Frontend** - HTML, CSS, Javascript, Vue, Nuxt, Sass, Bootstrap
    * **Scripting** - Python, Bash
    * **Design** - Photoshop, Illustrator
