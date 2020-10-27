@@ -73,8 +73,8 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Datastores** - MySQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
    * **IDEs** - NeoVim, VS Code Insiders, Sublime Text 3
-   * **Tools** - Github, NPM, Webpack, Docker
-   * **Other** - Linux, Windows
+   * **Tools** - Github, NPM, Webpack/Rollup, Docker
+   * **Other** - Linux
    
 ---
 
