@@ -67,9 +67,9 @@ Passionate about everything that means technology and programming in general, I 
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript with NestJS, PHP 7/Laravel
-   * **Frontend** - HTML/CSS, Javascript, Vue/Nuxt, Sass, Bootstrap
+   * **Frontend** - HTML/CSS, Javascript, VueJS/NuxtJS, Sass, Bootstrap
    * **Scripting** - Python, Bash
-   * **Design** - Photoshop, Illustrator
+   * **Design** - Adobe Photoshop/Illustrator
    * **Datastores** - MySQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
    * **IDEs** - NeoVim, VS Code Insiders, Sublime Text 3
