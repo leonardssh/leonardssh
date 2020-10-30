@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/)
+<!-- [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/) -->
 
 My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴 (currently I'm living in 🥟 Torremolinos. 🇪🇸)
 
