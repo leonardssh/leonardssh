@@ -2,7 +2,7 @@
 
 <!-- [![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=c3002f)](https://pufler.dev/git-badges/) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH)
+![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
 
 My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in 🧛‍♂️ Romania. 🇷🇴 (currently I'm living in 🥟 Torremolinos. 🇪🇸)
 
