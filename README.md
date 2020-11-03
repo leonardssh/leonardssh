@@ -13,7 +13,7 @@ Passionate about everything that means technology and programming in general, I 
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
    </a>
-   <a href="https://twitter.com/leonardssh_22" target="_blank" rel="nofollow">
+   <a href="https://twitter.com/leonardssh22" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
    </a>
    <a href="https://dev.to/leonardssh" target="_blank" rel="nofollow">
