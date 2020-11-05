@@ -58,7 +58,7 @@ Passionate about everything that means technology and programming in general, I 
       * **[ValetDiscordBot]** - An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)**
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
    * 🚧 Next projects from "Idea to production"
-      <!-- * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**. -->
+      * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
 
 ---
