@@ -74,7 +74,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Design** - Adobe Photoshop/Illustrator
    * **Datastores** - MySQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
-   * **IDEs** - NeoVim, VS Code Insiders, Sublime Text 3
+   * **IDEs** - NeoVim, VS Code Insiders
    * **Tools** - Github, NPM, Webpack/Rollup, Docker
    * **Other** - Linux
    
