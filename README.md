@@ -52,18 +52,18 @@ Passionate about everything that means technology and programming in general, I 
 ---
 
 ### 👨‍💻 What I do
-   
+
    * 👷‍♂️ Working on
-      * **[ValetDiscordBot]** - An awesome discord bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)**
-   * 💼 Projects
-      * **[coc-discord-rpc]** - 😎 An awesome coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)**
+   * 💼 Open Source Projects
+      - **[coc-discord-rpc]** - an awesome coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
-   * 🚧 Next projects from "Idea to production"
-      <!-- * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**. -->
-      * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. 
+   <!-- * 🚧 Next projects from "Idea to production"
+      * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
 ---
-   
+  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
    
 ### 💻 Tech Stack
