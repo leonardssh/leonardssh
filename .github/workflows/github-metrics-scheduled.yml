@@ -1,11 +1,11 @@
 name: GitHub metrics as SVG image
 on:
-  schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
+  schedule: 
+    - cron: '0 0 * * *'
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '[Skip GitHub Action]')"
     steps:
       - uses: lowlighter/metrics@latest
         with:
