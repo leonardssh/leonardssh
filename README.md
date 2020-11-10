@@ -45,7 +45,7 @@ Passionate about everything that means technology and programming in general, I 
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">
    </a>
    <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">
+      <img src="c" alt="Wakatime" width="32px" align="center">
    </a>
 </p>
 
@@ -102,7 +102,14 @@ These are my favorite tech stack for building all kinds of stuff.
 ### 🧾 Github Statistics
 These are some statistics from my github account.
  
-<table>
+![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)
+
+<details>
+   <summary>⚡ Want more? </summary>
+   
+   <br>
+   
+   <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
@@ -114,9 +121,6 @@ These are some statistics from my github account.
 </table>
 
 > Provided by **[GitHub Readme Stats]**
-
-<details>
-   <summary>⚡ Want more? </summary>
    
    <br>
    
