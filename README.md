@@ -102,7 +102,7 @@ These are my favorite tech stack for building all kinds of stuff.
 ### 🧾 Github Statistics
 These are some statistics from my github account.
  
-![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)
+[![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)](https://leonard.sh)
 
 <details>
    <summary>⚡ Want more? </summary>
