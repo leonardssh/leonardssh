@@ -45,7 +45,7 @@ Passionate about everything that means technology and programming in general, I 
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">
    </a>
    <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
-      <img src="c" alt="Wakatime" width="32px" align="center">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">
    </a>
 </p>
 
