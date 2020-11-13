@@ -57,6 +57,7 @@ Passionate about everything that means technology and programming in general, I 
       * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)**
    * 💼 Open Source Projects
       - **[coc-discord-rpc]** - an awesome coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
    <!-- * 🚧 Next projects from "Idea to production"
       * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
@@ -246,8 +247,12 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 [`manele playlist`]:       https://open.spotify.com/playlist/329xtb1CReijERQqI6dJCV?si=Lhlzc7MGT2yTmI4V46tarA
 [Leaks-Profile]:           https://www.leaks.ro/profile/8-leonard/
-[GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
-[Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)
+[GitHub Readme Stats]:     https://github.com/anuraghazra/github-readme-stats
+[Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)    
+
+[openweathermap.org]:      https://openweathermap.org/
+
+[auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 
 <!--END_SECTION:links-->
 
