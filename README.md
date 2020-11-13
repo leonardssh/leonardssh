@@ -58,6 +58,7 @@ Passionate about everything that means technology and programming in general, I 
    * 💼 Open Source Projects
       - **[coc-discord-rpc]** - an awesome coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
       - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
+      - ... and many, many more things you can see by exploring [my repositories]!
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
    <!-- * 🚧 Next projects from "Idea to production"
       * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
@@ -204,7 +205,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 [ValetDiscordBot]:         https://github.com/ValetDiscordBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
+
+[my repositories]:         https://github.com/LeonardSSH?tab=repositories
+
 [coc-discord-rpc]:         https://github.com/LeonardSSH/coc-discord-rpc
+[auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 
 [RAGEMP]:                  https://rage.mp/
 
@@ -251,8 +256,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 [Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)    
 
 [openweathermap.org]:      https://openweathermap.org/
-
-[auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 
 <!--END_SECTION:links-->
 
