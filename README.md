@@ -4,7 +4,7 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) -->
 
-My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in Romania. 🇷🇴 (currently I'm living in España. 🇪🇸)
+My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer born and raised in România. 🇷🇴 (currently I'm living in España. 🇪🇸)
 
 I'm eager to learn new things. 
 Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
