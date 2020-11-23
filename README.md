@@ -83,12 +83,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ### 🌟 Abilities
 
-   * **Fast learner**
-   * **Adaptability**
-   * **Organization**
-   * **Teamwork**
-   * **Problem-solving**
-   * **Self Motivation**
+   * **Fast learner** · **Adaptability** · **Organization** · **Teamwork** · **Problem-solving** · **Self Motivation**
 
 ---
    
