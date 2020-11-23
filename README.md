@@ -53,8 +53,8 @@ Passionate about everything that means technology and programming in general, I 
 
 ### 👨‍💻 What I do
 
-   * 👷‍♂️ Working on
-      * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)**
+   <!-- * 👷‍♂️ Working on
+      * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)** -->
    * 💼 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
       - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
@@ -65,17 +65,15 @@ Passionate about everything that means technology and programming in general, I 
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
 ---
-  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-   
+     
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with NestJS, PHP 7/Laravel
-   * **Frontend** - HTML/CSS, Javascript, VueJS/NuxtJS, Sass, Bootstrap
-   * **Scripting** - Python, Bash
-   * **Design** - Adobe Photoshop/Illustrator
-   * **Datastores** - MySQL, MongoDB, Redis
+   * **Backend** - Typescript with NestJS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS/NuxtJS, Tailwind CSS, Figma (design & prototyping)
+   * **Scripting** - Python 3, Bash
+   * **APIs** - RESTful, GraphQL
+   * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
    * **IDEs** - NeoVim, VS Code Insiders
    * **Tools** - Github, NPM, Webpack/Rollup, Docker
@@ -83,7 +81,6 @@ These are my favorite tech stack for building all kinds of stuff.
    
 ---
 
-<!--
 ### 🌟 Abilities
 
    * **Fast learner**
@@ -92,6 +89,8 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Teamwork**
    * **Problem-solving**
    * **Self Motivation**
+
+---
    
 ### 🌅 Hobbies
 
@@ -99,18 +98,12 @@ These are my favorite tech stack for building all kinds of stuff.
    * 🚘 **Petrolhead**
    * 🎮 **Gaming**
    * ⚔️ **History**
--->
    
+---
+
 ### 🧾 Github Statistics
 These are some statistics from my github account.
- 
-[![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)](https://leonard.sh)
 
-<details>
-   <summary>⚡ Want more? </summary>
-   
-   <br>
-   
    <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -123,6 +116,13 @@ These are some statistics from my github account.
 </table>
 
 > Provided by **[GitHub Readme Stats]**
+
+<details>
+   <summary>⚡ Want more? </summary>
+   
+   <br>
+   
+   [![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)](https://leonard.sh)
    
    <br>
    
