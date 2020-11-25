@@ -75,7 +75,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **APIs** - RESTful, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
-   * **IDEs** - NeoVim, VS Code Insiders
+   * **IDEs** - NeoVim (used to write code from scratch), VS Code Insiders (used to editing source-codes)
    * **Tools** - Github, NPM, Webpack/Rollup, Docker
    * **Other** - Linux
    
@@ -83,7 +83,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ### 🌟 Abilities
 
-   * **Fast learner** · **Adaptability** · **Organization** · **Teamwork** · **Problem-solving** · **Self Motivation**
+   * **Fast learner** **·** **Adaptability** **·** **Organization** **·** **Teamwork** **·** **Problem-solving** **·** **Self Motivation**
 
 ---
    
