@@ -57,6 +57,7 @@ Passionate about everything that means technology and programming in general, I 
       * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)** -->
    * 💼 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
+      - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.
       - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
@@ -65,7 +66,7 @@ Passionate about everything that means technology and programming in general, I 
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
 ---
-     
+          
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
@@ -204,6 +205,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 [my repositories]:         https://github.com/LeonardSSH?tab=repositories
 
 [coc-discord-rpc]:         https://github.com/LeonardSSH/coc-discord-rpc
+[vscord]:                  https://github.com/LeonardSSH/vscord
 [auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 
 [RAGEMP]:                  https://rage.mp/
