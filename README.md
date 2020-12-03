@@ -57,8 +57,9 @@ Passionate about everything that means technology and programming in general, I 
       * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)** -->
    * 💼 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
-      - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.
+      - **[auto-github-bio]** - automatized Github biography using **[openweathermap.org]** API
+      - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
       - **[auto-discord-status]** - automatized Discord Custom Status using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
@@ -207,6 +208,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 [coc-discord-rpc]:         https://github.com/LeonardSSH/coc-discord-rpc
 [vscord]:                  https://github.com/LeonardSSH/vscord
+[auto-github-bio]:         https://github.com/LeonardSSH/auto-github-bio
 [auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 [auto-discord-status]:     https://github.com/LeonardSSH/auto-discord-status
 
