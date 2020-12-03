@@ -56,12 +56,12 @@ Passionate about everything that means technology and programming in general, I 
    <!-- * 👷‍♂️ Working on
       * **[ValetDiscordBot]** - a super fully customizable bot made with good taste that should not be missing from anyone's server. With an elegant design and some helpful plugins, it makes it the best choice. **(WIP)** -->
    * 💼 Open Source Projects
-      - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
-      - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.
-      - **[auto-github-bio]** - automatized Github biography using **[openweathermap.org]** API
-      - **[auto-twitter-bio]** - automatized Twitter biography using **[openweathermap.org]** API
-      - **[auto-discord-status]** - automatized Discord Custom Status using **[openweathermap.org]** API
+   
+      - NeoVim Extensions: **[coc-discord-rpc]**
+      - VS Code Extensions: **[vscord]**
+      - Automations: **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** 
       - ... and many, many more things you can see by exploring **[my repositories]**!
+      
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
    <!-- * 🚧 Next projects from "Idea to production"
       * Build a coc-extension to get Discord Rich Presence integration with **[NeoVim]**.
