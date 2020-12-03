@@ -101,10 +101,7 @@ These are my favorite tech stack for building all kinds of stuff.
    
 ### 🌅 Hobbies
 
-   * 🏃 **Walking and other outdoor activities**
-   * 🚘 **Petrolhead**
-   * 🎮 **Gaming**
-   * ⚔️ **History**
+   * 🏃 **Walking and other outdoor activities** **·** 🚘 **Petrolhead** **·** 🎮 **Gaming** **·** ⚔️ **History**
    
 ---
 
