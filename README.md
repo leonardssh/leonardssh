@@ -52,13 +52,13 @@ Passionate about everything that means technology and programming in general, I 
 ---
 
 ### 👨‍💻 What I do
-   * 💼 Open Source Projects
-      - NeoVim Extensions:  
-         - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
-      - VS Code Extensions: 
-         - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
-      - Automations:  
-         - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
+      
+   * 💼 Developer at **[RYSE Multiplayer]**
+      - My work is mostly the development of the server, as well as its general maintenance. The core stack is **Typescript** for the Backend and **VueJS** for the Frontend.
+   * 🌍 Open Source Projects
+      - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
+      - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
+      - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
    * 🎓 Learning - Typescript, Vue, NestJS, Kubernetes
    * 🚧 Next projects from "Idea to production"
