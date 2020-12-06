@@ -75,7 +75,7 @@ These are my favorite tech stack for building all kinds of stuff.
    * **APIs** - RESTful, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
    * **Infrastucture** - Kubernetes
-   * **IDEs** - NeoVim (for write code from scratch), VS Code Insiders (for editing things)
+   * **IDEs** - VS Code Insiders, NeoVim
    * **Tools** - Github, NPM, Webpack/Rollup, Docker
    * **Other** - Linux
    
