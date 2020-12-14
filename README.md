@@ -1,6 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?style=flat-square&color=7C3138)](https://pufler.dev/git-badges/)
+[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?color=7C3138)](https://pufler.dev/git-badges/)
+[![Gitter](https://badges.gitter.im/LeonardSSH/community.svg)](https://gitter.im/LeonardSSH/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) -->
 
