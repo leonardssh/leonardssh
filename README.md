@@ -1,12 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-[![Profile Visits](https://komarev.com/ghpvc/?username=leonardssh)](https://komarev.com/ghpvc)
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) -->
+![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
 
 My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer from Romania.
 
-<p align="right">
+<p align="center">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
    </a>
@@ -46,8 +44,7 @@ My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard every
 
 ### 👨‍💻 What I do
       
-<!--   * 💼 Developer at **[RYSE Multiplayer]**
-      - My work is mostly the development of the server, as well as its general maintenance. The core stack is **Typescript** for the Backend and **VueJS** for the Frontend. -->
+   * 💼 Developer at **[RYSE Multiplayer]** - a romanian GTA V Online server (platform **[alt:V](https://altv.mp)**)
    * 🌍 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
@@ -57,8 +54,6 @@ My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard every
 <!--   * 🚧 Next projects from "Idea to production"
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
----
-          
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
@@ -69,8 +64,6 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
    * **Tools** - Github, VS Code Insiders, NeoVim, Docker
    * **Other** - Linux
-   
----
 
 ### 🧾 Github Statistics
 These are some statistics from my github account.
