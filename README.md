@@ -1,14 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-[![Profile Visits](https://badges.pufler.dev/visits/LeonardSSH/LeonardSSH?color=7C3138)](https://pufler.dev/git-badges/)
-[![Gitter](https://badges.gitter.im/LeonardSSH/community.svg)](https://gitter.im/LeonardSSH/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
+
+[![Profile Visits](https://komarev.com/ghpvc/?username=vladfrangu)](https://komarev.com/ghpvc)
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) -->
 
 My name is Narcis (from **[Greek mythology]** 😄), known as 🦁 Leonard everywhere, and I'm an 19 y.o self-taught programmer from Romania.
-
-I'm eager to learn new things. 
-Passionate about everything that means technology and programming in general, I have a deep interest in everything related to the Software Development Lifecycle: Engineering practices, Software Quality, Development Processes, CI/CD, DevOps, Automation, etc.
 
 <p align="right">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
@@ -26,7 +24,6 @@ Passionate about everything that means technology and programming in general, I 
    <a href="mailto:contact@leonard.sh" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
    </a>
-   
    <a href="https://www.facebook.com/leonardssh22" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center">
    </a>
@@ -41,9 +38,6 @@ Passionate about everything that means technology and programming in general, I 
    </a>
    <a href="https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
-   </a>
-   <a href="https://www.leaks.ro/profile/8-leonard/" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/leaks-logo.png" alt="Leaks.ro" width="30" align="center">
    </a>
    <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">
@@ -70,27 +64,13 @@ Passionate about everything that means technology and programming in general, I 
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with NestJS
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS/NuxtJS, Tailwind CSS, Figma (design & prototyping)
-   * **Scripting** - Python 3, Bash
-   * **APIs** - RESTful, GraphQL
+   * **Backend** - Typescript with ExpressJS/Koa
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), React/NextJS, Tailwind CSS
+   * **Scripting** - Python3, Bash
+   * **APIs** - REST, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
-   * **Infrastucture** - Kubernetes
-   * **IDEs** - VS Code Insiders, NeoVim
-   * **Tools** - Github, NPM, Webpack/Rollup, Docker
+   * **Tools** - Github, VS Code Insiders, NeoVim, Docker
    * **Other** - Linux
-   
----
-
-### 🌟 Abilities
-
-   * **Fast learner** **·** **Adaptability** **·** **Organization** **·** **Teamwork** **·** **Problem-solving** **·** **Self Motivation**
-
----
-   
-### 🌅 Hobbies
-
-   * 🏃 **Walking and other outdoor activities** **·** 🚘 **Petrolhead** **·** 🎮 **Gaming** **·** ⚔️ **History**
    
 ---
 
@@ -109,88 +89,6 @@ These are some statistics from my github account.
 </table>
 
 > Provided by **[GitHub Readme Stats]**
-
-<details>
-   <summary>⚡ Want more? </summary>
-   
-   <br>
-   
-   [![Profile Views](https://github.com/LeonardSSH/LeonardSSH/blob/master/github-metrics.svg)](https://leonard.sh)
-   
-   <br>
-   
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 1,881 Contributions in the Year 2020
- > 
-> 📦 53.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories
- > 
-> 🔑 13 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-🌆 Daytime    444 commits    ███████████░░░░░░░░░░░░░░   44.94% 
-🌃 Evening    355 commits    █████████░░░░░░░░░░░░░░░░   35.93% 
-🌙 Night      59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Tuesday      109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Wednesday    166 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Thursday     219 commits    █████░░░░░░░░░░░░░░░░░░░░   22.17% 
-Friday       93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-Saturday     187 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
-Sunday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.1% 
-JSON                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-VimL                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.26% 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
-
-🔥 Editors: 
-Vim                      15 hrs 2 mins       ██████████████████████░░░   88.0% 
-VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
-
-💻 Operating System: 
-Linux                    16 hrs 43 mins      ████████████████████████░   97.9% 
-Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
-CSS                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 <!--START_SECTION:links-->
 
