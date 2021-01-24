@@ -1,8 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
-
-[![Profile Visits](https://komarev.com/ghpvc/?username=vladfrangu)](https://komarev.com/ghpvc)
+[![Profile Visits](https://komarev.com/ghpvc/?username=leonardssh)](https://komarev.com/ghpvc)
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) -->
 
