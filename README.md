@@ -53,6 +53,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
    * 🎓 Learning - new stuff about the scripty version of Java
+   * 😄 Fun fact - Only half of programming is coding. The other 90% is debugging.
 <!--   * 🚧 Next projects from "Idea to production"
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
