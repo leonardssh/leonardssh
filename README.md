@@ -44,7 +44,9 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 
 ### 👨‍💻 What I do
       
-   * 💼 Developer at **[RYSE Multiplayer]** - a romanian GTA V Online server (platform **[alt:V](https://altv.mp)**)
+   * 💼 What I'm working on:
+      - **[RYSE Multiplayer]** - a romanian GTA V Online server. (platform **[alt:V](https://altv.mp)**)
+      - **[Skippy]** - a future discord bot which will contain everything you need to maintain a server. (**[skippy.gg](https://skippy.gg)**)
    * 🌍 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
@@ -87,6 +89,7 @@ These are some statistics from my github account.
 
 [ValetDiscordBot]:         https://github.com/ValetDiscordBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
+[Skippy]:                  https://github.com/skippybot
 
 [my repositories]:         https://github.com/LeonardSSH?tab=repositories
 
