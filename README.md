@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
 
-My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.wikipedia.org/wiki/Leonard)** everywhere, and I'm an 19 y.o full-stack web developer with 1.0 years experience from Romania, EU.
+My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.wikipedia.org/wiki/Leonard)** everywhere, and I'm an 19 y.o full-stack web developer from Romania, EU.
 
 <p align="center">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
@@ -45,8 +45,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 What I'm working on:
-      - **[RYSE Multiplayer]** - a romanian GTA V Online server. (platform **[alt:V](https://altv.mp)**)
-      - **[Skippy]** - a future discord bot which will contain everything you need to maintain a server. (**[skippy.gg](https://skippy.gg)**)
+      - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
+      - **[Skippy]** - a future discord bot that will contain everything you need to maintain and grow up a server. (**[skippy.gg](https://skippy.gg)**)
    * 🌍 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
