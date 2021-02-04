@@ -46,7 +46,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       
    * 💼 What I'm working on:
       - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
-      - **[Skippy]** - a future discord bot that will contain everything you need to maintain and grow up a server. (**[skippy.gg](https://skippy.gg)**)
+      - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. (**[skippy.gg](https://skippy.gg)**)
    * 🌍 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
@@ -60,7 +60,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with ExpressJS/Koa
+   * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), React/NextJS, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **APIs** - REST, GraphQL
