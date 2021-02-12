@@ -11,6 +11,9 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
    <a href="https://twitter.com/leonardssh22" target="_blank" rel="nofollow">
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
    </a>
+   <a href="https://profile.codersrank.io/user/leonardssh/" target="_blank" rel="nofollow">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/codersrank.png" alt="Codersrank" width="34" align="center">
+   </a>
    <a href="https://dev.to/leonardssh" target="_blank" rel="nofollow">
       <img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="32" align="center">
    </a>
@@ -36,7 +39,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
    </a>
    <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
-      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32px" align="center">
+      <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
    </a>
 </p>
 
