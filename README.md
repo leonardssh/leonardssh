@@ -64,7 +64,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), React/NextJS, Tailwind CSS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Angular, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **APIs** - REST, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
