@@ -64,7 +64,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Angular, Tailwind CSS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue/Angular, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **APIs** - REST, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
@@ -80,7 +80,7 @@ These are some statistics from my github account.
       <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=LeonardSSH&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true&extra=rysemultiplayer/template,bot,bot-kernel,bot-pieces,bot-plugins,logger,vscode-autocomplete" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=LeonardSSH&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true&count_private=true" />
     </td>
   </tr>
 </table>
