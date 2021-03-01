@@ -48,7 +48,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 What I'm working on:
-      <!-- - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**) -->
+      - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
       - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. (**[skippy.gg](https://skippy.gg)**)
    * 🌍 Open Source Projects
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
