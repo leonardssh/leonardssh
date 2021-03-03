@@ -47,23 +47,25 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 
 ### 👨‍💻 What I do
       
-   * 💼 What I'm working on:
+   * 💼 **I'm working on:**
       - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
       - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. (**[skippy.gg](https://skippy.gg)**)
-   * 🌍 Open Source Projects
+   * ✨ **Maintaining:**
+      - **[InversifyJS]** - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+   * 🌍 **Open Source Projects:**
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
       - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
-   * 🎓 Learning - new stuff about the scripty version of Java
-   * 😄 Fun fact - Only half of programming is coding. The other 90% is debugging.
+   * 🎓 **Learning** - new stuff about the scripty version of Java
+   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
 <!--   * 🚧 Next projects from "Idea to production"
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
+   * **Backend** - Typescript with [Fastify](https://www.fastify.io/) & [InversifyJS]
    * **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue/Angular, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **APIs** - REST, GraphQL
@@ -88,6 +90,8 @@ These are some statistics from my github account.
 > Provided by **[GitHub Readme Stats]**
 
 <!--START_SECTION:links-->
+
+[InversifyJS]:             https://github.com/inversify
 
 [`discord`]:               https://discord.com/
 
