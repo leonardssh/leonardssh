@@ -51,7 +51,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
       - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. (**[skippy.gg](https://skippy.gg)**)
    * ✨ **Maintaining:**
-      - **[InversifyJS]** - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+      - **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
    * 🌍 **Open Source Projects:**
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
