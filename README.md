@@ -48,8 +48,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server. (**[ryse.mp](https://ryse.mp)**)
-      - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. (**[skippy.gg](https://skippy.gg)**)
+      - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server.
+      - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot.
    * ✨ **I'm maintaining:**
       - **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
    * 🌍 **Open Source Projects:**
