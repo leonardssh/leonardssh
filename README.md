@@ -49,7 +49,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       
    * 💼 **I'm working on:**
       - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server.
-      - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot.
+      <!-- - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. -->
    * ✨ **I'm maintaining:**
       - **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
    * 🌍 **Open Source Projects:**
@@ -65,8 +65,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with [Fastify](https://www.fastify.io/) & [InversifyJS]
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue/Angular, Tailwind CSS
+   * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **APIs** - REST, GraphQL
    * **Datastores** - MySQL, PostgreSQL, MongoDB, Redis
