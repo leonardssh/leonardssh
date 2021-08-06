@@ -62,16 +62,21 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 <!--   * 🚧 Next projects from "Idea to production"
       * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
+---
+
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend** - Typescript with [Fastify](https://www.fastify.io/)
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Vue/Angular, Tailwind CSS
-   * **Scripting** - Python3, Bash
-   * **APIs** - REST, GraphQL
-   * **Datastores** - MySQL with [Prisma](https://www.prisma.io/), Redis
-   * **Tools** - Github, VS Code Insiders, NeoVim, Docker
-   * **Other** - Linux
+   * **Backend:** - Typescript with NestJS
+   * **Frontend:** - HTML5/CSS3, JavaScript (ES6), VueJS, NuxtJS, Tailwind CSS
+   * **Scripting:** - Python3, Bash
+   * **APIs:** - REST, GraphQL
+   * **Datastores:** - MySQL, Redis
+   * **Infrastucture:** -  Docker, Kubernetes
+   * **Tools:** - Github, VS Code, NeoVim, Figma
+   * **Other:** - Linux
+
+---
 
 ### 🧾 Github Statistics
 These are some statistics from my github account.
