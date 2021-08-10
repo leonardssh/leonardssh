@@ -54,7 +54,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       - **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
    * 🌍 **Open Source Projects:**
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
-      - **[vscord]** - another awesome and fully customizable VS Code extension to get Discord Rich Presence integration.  
+      - **[vscord]** - a fully customizable VS Code extension to get Discord Rich Presence integration.  
       - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
    * 🎓 **Learning** - new stuff about the scripty version of Java
