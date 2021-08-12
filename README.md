@@ -45,7 +45,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 
 <p align="center">
    <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme-orpin.vercel.app/api/290131759159443457" alt="Discord Presence" align="center">
+      <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457" alt="Discord Presence" align="center">
    </a>
 </p>
 
