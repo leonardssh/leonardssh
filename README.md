@@ -54,19 +54,19 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      - **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server.
-      <!-- - **[Skippy]** - a future discord bot that aims to combine the features of all popular bots into one bot. -->
+      * **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server.
+      
    * ✨ **I'm maintaining:**
-      - **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+      * **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+
    * 🌍 **Open Source Projects:**
       - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
       - **[vscord]** - a fully customizable VS Code extension to get Discord Rich Presence integration.  
       - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
       - ... and many, many more things you can see by exploring **[my repositories]**!
+
    * 🎓 **Learning** - new stuff about the scripty version of Java
    * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
-<!--   * 🚧 Next projects from "Idea to production"
-      * Build a CLI for **[RAGE:MP Community][RAGEMP]** that allows users to easily install packages, dependencies, clone the repository, and then handle the responses in their post install script. -->
 
 ---
 
@@ -76,11 +76,18 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Backend:** - Typescript with NestJS & Fastify
    * **Frontend:** - HTML5/CSS3, JavaScript (ES6), VueJS, NuxtJS, Tailwind CSS
    * **Scripting:** - Python3, Bash
-   * **APIs:** - REST, GraphQL
-   * **Datastores:** - MySQL, Redis
+   * **Datastores:** - MariaDB, Redis
    * **Infrastucture:** -  Docker, Kubernetes
    * **Tools:** - Github, VS Code, NeoVim, Figma
    * **Other:** - Linux
+
+---
+
+### :envelope: Contacts
+
+I am in many places online, but here are where I am most active. Feel free to contact me.
+
+* [Website](https://leonard.sh) | [Twitter](https://twitter.com/leonardssh22) | [Instagram](https://www.instagram.com/leonardssh22/)
 
 ---
 
