@@ -54,32 +54,34 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * **[RYSE Multiplayer]** - a romanian **[alt:V](https://altv.mp)** (multiplayer client for GTA:V) server.
+      * [RYSE Multiplayer] - a romanian [alt:V] (multiplayer client for GTA:V) server
+      * [Atlas] - a typescript framework for [alt:V]
       
    * ✨ **I'm maintaining:**
-      * **[InversifyJS]** - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+      * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
 
    * 🌍 **Open Source Projects:**
-      - **[coc-discord-rpc]** - an awesome and fully customizable coc-extension to get Discord Rich Presence integration with **[NeoVim]**.  
-      - **[vscord]** - a fully customizable VS Code extension to get Discord Rich Presence integration.  
-      - **[auto-github-bio]**, **[auto-twitter-bio]**, **[auto-discord-status]** - all this automatically updates your biography using **[openweathermap.org]** API
-      - ... and many, many more things you can see by exploring **[my repositories]**!
+      - NeoVim: [coc-discord-rpc]
+      - VS Code Extensions: [vscord]
+      - OpenWeatherMap: [auto-github-bio], [auto-twitter-bio], [auto-discord-status]
+      - Vue: [use-lanyard]
+      - ... and many, many more things you can see by exploring [my repositories]!
 
    * 🎓 **Learning** - new stuff about the scripty version of Java
-   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
+   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging
 
 ---
 
 ### 💻 Tech Stack
 These are my favorite tech stack for building all kinds of stuff.
 
-   * **Backend:** - Typescript with NestJS & Fastify
-   * **Frontend:** - HTML5/CSS3, JavaScript (ES6), VueJS, NuxtJS, Tailwind CSS
-   * **Scripting:** - Python3, Bash
-   * **Datastores:** - MariaDB, Redis
-   * **Infrastucture:** -  Docker, Kubernetes
-   * **Tools:** - Github, VS Code, NeoVim, Figma
-   * **Other:** - Linux
+   * **Backend** - Typescript with NestJS & Fastify
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS, NuxtJS, Tailwind CSS
+   * **Scripting** - Python3, Bash
+   * **Datastores** - MariaDB, Redis
+   * **Infrastucture** -  Docker, Kubernetes
+   * **Tools** - Github, VS Code, NeoVim, Figma
+   * **Other** - Linux
 
 ---
 
@@ -110,6 +112,10 @@ These are some statistics from my github account.
 <!--START_SECTION:links-->
 
 [InversifyJS]:             https://github.com/inversify
+[Atlas]:                   https://github.com/abstractFlo/atlas
+[alt:V]:                   https://altv.mp
+
+[use-lanyard]:             https://github.com/LeonardSSH/use-lanyard
 
 [`discord`]:               https://discord.com/
 
