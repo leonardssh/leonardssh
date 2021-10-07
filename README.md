@@ -76,7 +76,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript with NestJS & Fastify
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS, NuxtJS, Tailwind CSS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Angular, VueJS, NuxtJS, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **Datastores** - MariaDB, Redis
    * **Infrastucture** -  Docker, Kubernetes
