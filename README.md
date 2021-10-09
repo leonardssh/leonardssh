@@ -112,7 +112,7 @@ These are some statistics from my github account.
 
 [InversifyJS]:             https://github.com/inversify
 [Atlas]:                   https://github.com/abstractFlo/atlas
-[alt:V]:                   https://altv.mp
+[RAGE:MP]:                 https://rage.mp
 
 [use-lanyard]:             https://github.com/LeonardSSH/use-lanyard
 
