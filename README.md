@@ -54,8 +54,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [RYSE Multiplayer] - a romanian [alt:V] (multiplayer client for GTA:V) server
-      * [Atlas] - a typescript framework for [alt:V]
+      * [RYSE Multiplayer] - a romanian [RAGE:MP] (multiplayer client for GTA:V) server
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
