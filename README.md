@@ -56,7 +56,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Vespucci Multiplayer] - a romanian [RAGE:MP] (multiplayer client for GTA:V) server
+      * [RYSE Multiplayer] - a romanian [RAGE:MP] (multiplayer client for GTA:V) server
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
@@ -122,7 +122,6 @@ These are some statistics from my github account.
 
 [ValetDiscordBot]:         https://github.com/ValetDiscordBot
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
-[Vespucci Multiplayer]:    https://github.com/vespucci-mp
 [Skippy]:                  https://github.com/skippybot
 
 [my repositories]:         https://github.com/LeonardSSH?tab=repositories
