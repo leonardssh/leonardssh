@@ -57,6 +57,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       
    * 💼 **I'm working on:**
       * [RYSE Multiplayer] - a romanian [RAGE:MP] (multiplayer client for GTA:V) server
+      * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close!
+      * [RAGE:MP] Typescript Definitions - typescript definitions for the [RAGE:MP] (not yet public, soon™)
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
@@ -77,7 +79,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 These are my favorite tech stack for building all kinds of stuff.
 
    * **Backend** - Typescript with NestJS & Fastify
-   * **Frontend** - HTML5/CSS3, JavaScript (ES6), VueJS/NuxtJS, SASS/Tailwind CSS
+   * **Frontend** - HTML5/CSS3, JavaScript (ES6), Angular/VueJS, Tailwind CSS
    * **Scripting** - Python3, Bash
    * **Datastores** - MySQL, Redis
    * **Infrastucture** -  Docker, Kubernetes
