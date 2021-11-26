@@ -58,7 +58,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
    * 💼 **I'm working on:**
       * [RYSE Multiplayer] - a romanian [RAGE:MP] (multiplayer client for GTA:V) server
       * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close!
-      * [RAGE:MP] Typescript Definitions - typescript definitions for the [RAGE:MP] (not yet public, soon™)
+      * [RAGE:MP Typescript Definitions] - typescript definitions for the [RAGE:MP]
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
@@ -135,6 +135,7 @@ These are some statistics from my github account.
 [auto-discord-status]:     https://github.com/LeonardSSH/auto-discord-status
 
 [RAGEMP]:                  https://rage.mp/
+[RAGE:MP Typescript Definitions]: https://github.com/LeonardSSH/ragemp-types
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
