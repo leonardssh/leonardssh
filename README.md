@@ -57,7 +57,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
       
    * 💼 **I'm working on:**
       * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP]
-      * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close!
+      <!-- * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close! Maybe not? -->
       * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP]
       
    * ✨ **I'm maintaining:**
