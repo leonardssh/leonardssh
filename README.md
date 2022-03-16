@@ -133,7 +133,7 @@ These are some statistics from my github account.
 [auto-discord-status]:     https://github.com/LeonardSSH/auto-discord-status
 
 [RAGEMP]:                  https://rage.mp/
-[RAGE:MP Typescript Definitions]: https://github.com/LeonardSSH/ragemp-types
+[RAGE:MP Typescript Definitions]: https://github.com/ragempcommunity/ragemp-types
 
 [Instagram]:               https://www.instagram.com/leonardssh22/
 [Twitter]:                 https://twitter.com/leonardssh_22
