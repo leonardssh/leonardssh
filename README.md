@@ -86,14 +86,6 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ---
 
-<!-- ### :envelope: Contacts
-
-I am in many places online, but here are where I am most active. Feel free to contact me.
-
-* [Website](https://leonard.sh) | [Twitter](https://twitter.com/leonardssh22) | [Instagram](https://www.instagram.com/leonardssh22/)
-
---- -->
-
 ### 🧾 Github Statistics
 These are some statistics from my github account.
 
