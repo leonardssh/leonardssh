@@ -54,7 +54,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.w
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP]
+      * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP]
+      <!-- * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP] -->
       <!-- * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close! Maybe not? -->
       
    * ✨ **I'm maintaining:**
@@ -113,6 +114,7 @@ These are some statistics from my github account.
 [`discord`]:               https://discord.com/
 
 [ValetDiscordBot]:         https://github.com/ValetDiscordBot
+[Liberty Multiplayer]:     https://github.com/liberty-mp
 [RYSE Multiplayer]:        https://github.com/rysemultiplayer
 [Skippy]:                  https://github.com/skippybot
 
