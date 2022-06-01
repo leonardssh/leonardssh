@@ -1,5 +1,3 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square)
 
 My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.wikipedia.org/wiki/Leonard)** everywhere, and I'm an 20 y.o full-stack web developer from Romania, EU.
