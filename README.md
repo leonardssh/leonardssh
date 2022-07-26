@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) 
 
-My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard](https://en.wikipedia.org/wiki/Leonard)** everywhere, and I'm an 20 y.o full-stack web developer from Romania, EU.
+My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere, and I'm an 20 y.o full-stack web developer based in The Netherlands.
 
 <p align="center">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
@@ -102,7 +102,7 @@ These are some statistics from my github account.
 
 > Provided by **[GitHub Readme Stats]**
 
-<!--START_SECTION:links-->
+[Leonard]:                 https://en.wikipedia.org/wiki/Leonard
 
 [InversifyJS]:             https://github.com/inversify
 [Atlas]:                   https://github.com/abstractFlo/atlas
@@ -171,31 +171,3 @@ These are some statistics from my github account.
 [Greek mythology]:         https://en.wikipedia.org/wiki/Narcissus_(mythology)    
 
 [openweathermap.org]:      https://openweathermap.org/
-
-<!--END_SECTION:links-->
-
-<!-- Some shits -->
-
-<!--
-* 🎓 I’m currently learning [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/vue.svg" alt="Vue.js" width="22" align="center">][Vue.js].
-* 😄 Pronouns: **he/him**.
-* ⚡️ Fun fact: *There are two ways to write error-free programs; only the third one works.*
-* <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Twitch" width="24" align="center"> The best [`manele playlist`] on spotify (only for <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="20" align="center"> Romanians)
--->
-
-<!--
-#### 🥅 2020 Goals: 
-   - [ ] Contribute more to Open Source projects
-   - [ ] Make my own framework for the [`@TheValetBot`]
-   - [ ] Finish [`@TheValetBot`] 😂
-   - [ ] Learn [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/typescript.svg" alt="Typescript" width="26" align="center">][TS] & [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/angular.svg" alt="Angular" width="32" align="center">][Angular]
-   - [ ] Learn more about API
-   - [ ] Make the basic systems required for the GTA V Server [`@rysemultiplayer`]
--->
- 
-<!--
-## 💻 What I'm working on
-   * **[RYSE Multiplayer]** - A <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/romania.png" alt="Romania" width="24" align="center"> Romanian GTA V Online server, on platform [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/ragemp.png" alt="RAGE:MP" width="18" align="center">][RAGEMP].
-   * **[ryse.mp](https://ryse.mp)** - Frontend and backend for https://ryse.mp
-   * **[valet](https://leonard.sh)** (in standby at the moment) - A multi purpose, open source [<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="26" align="center">][`discord`] bot. You can find all related repos [`@TheValetBot`]. 
--->
