@@ -59,6 +59,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
+      * [VSCord] - a fully customizable VS Code extension to get Discord Rich Presence integration.
       * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP]
 
    * 🌍 **Open Source Projects:**
@@ -121,6 +122,7 @@ These are some statistics from my github account.
 
 [coc-discord-rpc]:         https://github.com/LeonardSSH/coc-discord-rpc
 [vscord]:                  https://github.com/LeonardSSH/vscord
+[VSCord]:                  https://github.com/LeonardSSH/vscord
 [auto-github-bio]:         https://github.com/LeonardSSH/auto-github-bio
 [auto-twitter-bio]:        https://github.com/LeonardSSH/auto-twitter-bio
 [auto-discord-status]:     https://github.com/LeonardSSH/auto-discord-status
