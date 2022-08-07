@@ -52,15 +52,15 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP]
-      * [Personal Portfolio](https://github.com/leonardssh/leonard.sh) - my personal portfolio, [leonard.sh](https://leonard.sh/)
+      * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP].
+      * [Personal Portfolio](https://github.com/leonardssh/leonard.sh) - my personal portfolio, [leonard.sh](https://leonard.sh/).
       <!-- * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP] -->
       <!-- * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close! Maybe not? -->
       
    * ✨ **I'm maintaining:**
-      * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript
+      * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
       * [VSCord] - a fully customizable VS Code extension to get Discord Rich Presence integration.
-      * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP]
+      * [RAGE:MP Typescript Definitions] - typescript definitions for [RAGE:MP].
 
    * 🌍 **Open Source Projects:**
       - NeoVim: [coc-discord-rpc]
@@ -69,8 +69,8 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
       - Vue: [use-lanyard]
       - ... and many, many more things you can see by exploring [my repositories]!
 
-   * 🎓 **Learning** - new stuff about the scripty version of Java
-   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging
+   * 🎓 **Learning** - new stuff about the scripty version of Java.
+   * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
 
 ---
 
