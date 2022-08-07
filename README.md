@@ -54,6 +54,7 @@ My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere
    * 💼 **I'm working on:**
       * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP].
       * [Personal Portfolio](https://github.com/leonardssh/leonard.sh) - my personal portfolio, [leonard.sh](https://leonard.sh/).
+      * [Resume](https://github.com/leonardssh/new-resume) - my resume, [resume.leonard.sh](https://resume.leonard.sh/)
       <!-- * [RYSE Multiplayer] - a romanian GTA:V server powered by [RAGE:MP] -->
       <!-- * [Skippy] - a discord bot that aims to combine the features of all popular bots into one bot. So, stay close! Maybe not? -->
       
