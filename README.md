@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardSSH&color=7C3138&style=flat-square) 
 
-My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere, and I'm an 20 y.o full-stack web developer based in Rotterdam, the Netherlands.
+My name is **[Narcis][Greek mythology]**, known as 🦁 **[Leonard]** everywhere, and I'm an 21 y.o full-stack web developer based in Rotterdam, the Netherlands.
 
 <p align="center">
    <a href="https://www.instagram.com/leonardssh22/" target="_blank">
