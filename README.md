@@ -4,6 +4,60 @@ Hi, my name is **[Narcis][Greek mythology]**, but you can call me **[Leonard]**.
 
 I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passion for building innovative and intuitive web applications, I'm constantly striving to improve my skills and stay up-to-date with the latest technologies. 
 
+
+ <table align="center">
+   <tr>
+      <td>
+         <a href="mailto:contact@leonard.sh" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
+            contact@leonard.sh
+         </a>
+      </td>
+      <td>
+          <a href="https://www.instagram.com/leonardssh22/" target="_blank">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/instagram.svg" alt="Twitter" width="32" align="center">
+            leonardssh22
+         </a>
+      </td>
+      <td>
+         <a href="https://twitter.com/leonardssh22" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center">
+            leonardssh22
+         </a>
+      </td>
+      <td>
+         <a href="https://discord.com/" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
+            Leonard#6666
+         </a>
+      </td>
+      <td>
+         <a href="https://www.youtube.com/@leonardssh" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center">
+            leonardssh
+         </a>
+      </td>
+      <td>
+         <a href="https://steamcommunity.com/id/leonardssh/" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center">
+            leonardssh
+         </a>
+      </td>
+      <td>
+         <a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
+            @leonard
+         </a>
+      </td>
+      <td>
+         <a href="https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt" target="_blank" rel="nofollow">
+            <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center">
+            leonardssh
+         </a>
+      </td>
+   </tr>
+</table>
+
 <p align="center">
    <a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
@@ -48,26 +102,10 @@ These are my favorite tech stack for building all kinds of stuff.
 
 ---
 
-### 📩 Contact
-
-| Where you can find me? |
-| --------- |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center"> [contact@leonard.sh](mailto:contact@leonard.sh) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/facebook.svg" alt="Facebook" width="32" align="center"> [leonardssh22](https://www.instagram.com/leonardssh22/) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitter.svg" alt="Twitter" width="32" align="center"> [leonardssh22](https://twitter.com/leonardssh22) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center"> [Leonard#6666](https://discord.gg) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/youtube.svg" alt="YouTube" width="32" align="center"> [@leonardssh](https://www.youtube.com/@leonardssh) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/twitch.svg" alt="Twitch" width="32" align="center"> [leonardssh22](https://www.twitch.tv/leonardssh22) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/steam.svg" alt="Steam" width="32" align="center"> [leonardssh](https://steamcommunity.com/id/leonardssh/) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/spotify.svg" alt="Spotify" width="32" align="center"> [click here](https://open.spotify.com/user/dwte9evqj8dph3ke924c7olpt) |
-| <img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center"> [@leonard](https://wakatime.com/@leonard) |
-
----
-
 ### 🧾 Github Statistics
 These are some statistics from my github account.
 
-   <table>
+<table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardssh&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_title=true" />
