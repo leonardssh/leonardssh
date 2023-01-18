@@ -60,7 +60,7 @@ I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passi
 				<td>
 					<a href="https://wakatime.com/@leonard" target="_blank" rel="nofollow">
 						<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/wakatime.svg" alt="Wakatime" width="32" align="center">
-						@leonard
+						leonard
 					</a>
 				</td>
 			</tr>
