@@ -10,9 +10,9 @@ I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passi
 		<table>
 			<tr>
 				<td>
-					<a href="mailto:contact@leonard.sh" target="_blank" rel="nofollow">
+					<a href="mailto:me@leonard.sh" target="_blank" rel="nofollow">
 						<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
-						contact@leonard.sh
+						me@leonard.sh
 					</a>
 				</td>
 			</tr>
