@@ -68,6 +68,8 @@ These are some statistics from my github account.
 
 > Provided by **[GitHub Readme Stats]**
 
+<a rel="me" href="https://mas.to/@leonardssh">Mastodon</a>
+
 [Leonard]:                 https://en.wikipedia.org/wiki/Leonard
 
 [InversifyJS]:             https://github.com/inversify
