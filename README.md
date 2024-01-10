@@ -20,7 +20,6 @@ I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passi
       
    * 💼 **I'm working on:**
       * [Liberty Multiplayer] - a romanian GTA:V server powered by [RAGE:MP].
-      * [Personal Portfolio](https://github.com/leonardssh/leonard.sh) - my personal portfolio, [leonard.sh](https://leonard.sh/).
       
    * ✨ **I'm maintaining:**
       * [InversifyJS] - a powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
