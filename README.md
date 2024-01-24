@@ -2,7 +2,7 @@
 
 Hi, my name is **[Narcis][Greek mythology]**, but you can call me **[Leonard]**. 
 
-I'm a Full-Stack Web Developer based in Rotterdam, the Netherlands. With a passion for building innovative and intuitive web applications, I'm constantly striving to improve my skills and stay up-to-date with the latest technologies. 
+I'm a Full-Stack Developer based in Rotterdam, the Netherlands. With a passion for building innovative and intuitive web applications, I'm constantly striving to improve my skills and stay up-to-date with the latest technologies. 
 
 <table align="center">
   <tr>
